@@ -1,0 +1,303 @@
+{
+  "schemaVersion": 1,
+  "name": "blogss",
+  "slug": "blogss",
+  "route": "/bloggs",
+  "description": null,
+  "breakpoints": {
+    "tablet": 991,
+    "mobile": 478
+  },
+  "blocks": [
+    {
+      "id": "blk_muoaoy171",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "top": "12px",
+          "paddingTop": "16px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+        },
+        "desktop": {
+          "top": "24px",
+          "zIndex": "50",
+          "position": "sticky",
+          "paddingTop": "10px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "0px"
+        }
+      },
+      "children": [
+        {
+          "id": "aimuoasdvl_2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "1000px",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            }
+          },
+          "children": [
+            {
+              "id": "aimuoasdvl_3",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "paddingLeft": "16px",
+                  "paddingRight": "16px"
+                },
+                "desktop": {
+                  "border": "1px solid rgba(226, 232, 240, 0.8)",
+                  "display": "flex",
+                  "boxShadow": "0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.05)",
+                  "alignItems": "center",
+                  "paddingTop": "12px",
+                  "paddingLeft": "24px",
+                  "borderRadius": "9999px",
+                  "paddingRight": "24px",
+                  "paddingBottom": "12px",
+                  "backdropFilter": "blur(12px)",
+                  "justifyContent": "space-between",
+                  "backgroundColor": "rgba(255, 255, 255, 0.8)"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuoasdvl_4",
+                  "type": "link",
+                  "props": {
+                    "href": "#",
+                    "text": "Gozen Technologies"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#0f172a",
+                      "fontSize": "18px",
+                      "fontWeight": "700",
+                      "textDecoration": "none"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuoasdvl_5",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "mobile": {
+                      "display": "none"
+                    },
+                    "desktop": {
+                      "gap": "24px",
+                      "display": "flex",
+                      "alignItems": "center"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuoasdvl_6",
+                      "type": "link",
+                      "props": {
+                        "href": "#",
+                        "text": "Home"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#475569",
+                          "fontSize": "14px",
+                          "fontWeight": "500",
+                          "textDecoration": "none"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuoasdvl_7",
+                      "type": "link",
+                      "props": {
+                        "href": "/bloggs",
+                        "text": "Blogs"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#0f172a",
+                          "fontSize": "14px",
+                          "fontWeight": "600",
+                          "textDecoration": "none"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuoasdvl_8",
+                      "type": "link",
+                      "props": {
+                        "href": "#",
+                        "text": "Contact"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#475569",
+                          "fontSize": "14px",
+                          "fontWeight": "500",
+                          "textDecoration": "none"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuoasdvl_9",
+                  "type": "button",
+                  "props": {
+                    "href": "#",
+                    "text": "Get Started"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "12px",
+                      "paddingLeft": "12px",
+                      "paddingRight": "12px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "fontSize": "14px",
+                      "fontWeight": "500",
+                      "paddingTop": "8px",
+                      "paddingLeft": "16px",
+                      "borderRadius": "9999px",
+                      "paddingRight": "16px",
+                      "paddingBottom": "8px",
+                      "textDecoration": "none",
+                      "backgroundColor": "#0f172a"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blk_muoawykl2",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "paddingTop": "80px",
+          "paddingBottom": "80px"
+        },
+        "desktop": {
+          "overflow": "hidden",
+          "position": "relative",
+          "textAlign": "center",
+          "paddingTop": "120px",
+          "paddingBottom": "120px",
+          "backgroundSize": "cover",
+          "backgroundColor": "#0a0f1d"
+        }
+      },
+      "children": [
+        {
+          "id": "aimuob6a6q_2",
+          "type": "video",
+          "props": {
+            "url": "https://www.youtube.com/watch?v=LXb3EKWsInQ?autoplay=1&mute=1&loop=1&playlist=LXb3EKWsInQ"
+          },
+          "styles": {
+            "desktop": {
+              "top": "0",
+              "left": "0",
+              "width": "100%",
+              "height": "100%",
+              "zIndex": "1",
+              "opacity": "0.3",
+              "position": "absolute",
+              "objectFit": "cover"
+            }
+          }
+        },
+        {
+          "id": "aimuob6a6q_3",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "zIndex": "2",
+              "maxWidth": "800px",
+              "position": "relative",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            }
+          },
+          "children": [
+            {
+              "id": "aimuob6a6q_4",
+              "type": "heading",
+              "props": {
+                "text": "Powering the Future of Intelligent Automation",
+                "level": "h1"
+              },
+              "styles": {
+                "mobile": {
+                  "fontSize": "36px"
+                },
+                "desktop": {
+                  "color": "#ffffff",
+                  "fontSize": "56px",
+                  "lineHeight": "1.1",
+                  "marginBottom": "24px"
+                }
+              }
+            },
+            {
+              "id": "aimuob6a6q_5",
+              "type": "paragraph",
+              "props": {
+                "text": "Gozen Technologies delivers cutting-edge infrastructure and AI solutions designed to scale your enterprise effortlessly."
+              },
+              "styles": {
+                "mobile": {
+                  "fontSize": "16px"
+                },
+                "desktop": {
+                  "color": "#94a3b8",
+                  "fontSize": "18px",
+                  "lineHeight": "1.6",
+                  "marginBottom": "36px"
+                }
+              }
+            },
+            {
+              "id": "aimuob6a6q_6",
+              "type": "button",
+              "props": {
+                "href": "/setup",
+                "text": "Run Setup"
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#ffffff",
+                  "fontSize": "16px",
+                  "paddingTop": "14px",
+                  "paddingLeft": "32px",
+                  "borderRadius": "6px",
+                  "paddingRight": "32px",
+                  "paddingBottom": "14px",
+                  "backgroundColor": "#3b82f6"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

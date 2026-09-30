@@ -1,4 +1,25 @@
 {
   "schemaVersion": 1,
-  "pages": []
+  "pages": [
+    {
+      "route": "/",
+      "name": "home",
+      "file": "pages/home.json"
+    },
+    {
+      "route": "/bloggs",
+      "name": "blogss",
+      "file": "pages/blogss.json"
+    },
+    {
+      "route": "/test1",
+      "name": "test",
+      "file": "pages/test.json"
+    },
+    {
+      "route": "/test3",
+      "name": "test3",
+      "file": "pages/test3.json"
+    }
+  ]
 }
