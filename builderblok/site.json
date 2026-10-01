@@ -12,14 +12,14 @@
       "file": "pages/blogss.json"
     },
     {
+      "route": "/crm",
+      "name": "gozen crm",
+      "file": "pages/gozen-crm.json"
+    },
+    {
       "route": "/test1",
       "name": "test",
       "file": "pages/test.json"
-    },
-    {
-      "route": "/test3",
-      "name": "test3",
-      "file": "pages/test3.json"
     }
   ]
 }

@@ -1,0 +1,1024 @@
+{
+  "schemaVersion": 1,
+  "name": "gozen crm",
+  "slug": "gozen-crm",
+  "route": "/crm",
+  "description": null,
+  "breakpoints": {
+    "tablet": 991,
+    "mobile": 478
+  },
+  "blocks": [
+    {
+      "id": "aimupgyc83_1",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "desktop": {
+          "overflow": "hidden",
+          "position": "relative",
+          "paddingTop": "24px",
+          "paddingBottom": "24px",
+          "backgroundColor": "#F9FAFB"
+        }
+      },
+      "children": [
+        {
+          "id": "aimuph5fcr_2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "mobile": {
+              "flexWrap": "wrap",
+              "paddingLeft": "16px",
+              "paddingRight": "16px",
+              "flexDirection": "row"
+            },
+            "tablet": {
+              "paddingLeft": "30px",
+              "paddingRight": "30px"
+            },
+            "desktop": {
+              "display": "flex",
+              "maxWidth": "1200px",
+              "alignItems": "center",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "paddingLeft": "80px",
+              "paddingRight": "80px",
+              "justifyContent": "space-between"
+            }
+          },
+          "children": [
+            {
+              "id": "aimuph5fcr_3",
+              "type": "heading",
+              "props": {
+                "text": "Crumb & Flour",
+                "level": "h1"
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#111827",
+                  "fontSize": "24px",
+                  "fontWeight": "700"
+                }
+              }
+            },
+            {
+              "id": "aimuph5fcr_4",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "display": "none"
+                },
+                "desktop": {
+                  "gap": "24px",
+                  "display": "flex",
+                  "alignItems": "center"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuph5fcr_5",
+                  "type": "link",
+                  "props": {
+                    "href": "#menu",
+                    "text": "Menu"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#111827",
+                      "fontWeight": "500",
+                      "textDecoration": "none"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuph5fcr_6",
+                  "type": "link",
+                  "props": {
+                    "href": "#hours",
+                    "text": "Hours"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#111827",
+                      "fontWeight": "500",
+                      "textDecoration": "none"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuph5fcr_7",
+                  "type": "button",
+                  "props": {
+                    "href": "#order",
+                    "text": "Order Online"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#ffffff",
+                      "border": "none",
+                      "padding": "8px 16px",
+                      "fontWeight": "600",
+                      "borderRadius": "4px",
+                      "backgroundColor": "#2563EB"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "aimuph5fcr_8",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gap": "16px",
+                  "top": "0",
+                  "right": "0",
+                  "width": "260px",
+                  "height": "100vh",
+                  "zIndex": "50",
+                  "display": "flex",
+                  "padding": "60px 24px 24px 24px",
+                  "position": "fixed",
+                  "boxShadow": "-10px 0 25px rgba(0,0,0,0.15)",
+                  "transition": "transform 0.3s ease",
+                  "flexDirection": "column",
+                  "backgroundColor": "#ffffff"
+                },
+                "desktop": {
+                  "display": "none"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuph5fcr_9",
+                  "type": "link",
+                  "props": {
+                    "href": "#menu",
+                    "text": "Menu"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#111827",
+                      "fontSize": "18px",
+                      "fontWeight": "500",
+                      "textDecoration": "none"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuph5fcr_10",
+                  "type": "link",
+                  "props": {
+                    "href": "#hours",
+                    "text": "Hours"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#111827",
+                      "fontSize": "18px",
+                      "fontWeight": "500",
+                      "textDecoration": "none"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuph5fcr_11",
+                  "type": "button",
+                  "props": {
+                    "href": "#order",
+                    "text": "Order Online"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#ffffff",
+                      "border": "none",
+                      "padding": "12px 16px",
+                      "textAlign": "center",
+                      "fontWeight": "600",
+                      "borderRadius": "4px",
+                      "backgroundColor": "#2563EB"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "aimuph5fcr_12",
+              "type": "button",
+              "props": {
+                "text": "☰"
+              },
+              "styles": {
+                "mobile": {
+                  "color": "#111827",
+                  "border": "none",
+                  "cursor": "pointer",
+                  "zIndex": "60",
+                  "display": "block",
+                  "fontSize": "24px",
+                  "background": "transparent"
+                },
+                "desktop": {
+                  "display": "none"
+                }
+              },
+              "interactions": [
+                {
+                  "id": "ix1",
+                  "once": false,
+                  "delay": 0,
+                  "easing": "ease-out",
+                  "effect": "from-right",
+                  "target": "aimuph5fcr_8",
+                  "trigger": "click",
+                  "distance": 8,
+                  "duration": 200,
+                  "startHidden": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimupgyc83_16",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "paddingTop": "24px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "paddingBottom": "24px"
+        },
+        "tablet": {
+          "paddingTop": "40px",
+          "paddingBottom": "40px"
+        },
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingLeft": "80px",
+          "paddingRight": "80px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#F9FAFB"
+        }
+      },
+      "children": [
+        {
+          "id": "aimupgyc83_17",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "mobile": {
+              "paddingLeft": "16px",
+              "paddingRight": "16px",
+              "gridTemplateColumns": "minmax(0, 1fr)"
+            },
+            "tablet": {
+              "paddingLeft": "30px",
+              "paddingRight": "30px",
+              "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+            },
+            "desktop": {
+              "gap": "40px",
+              "display": "grid",
+              "maxWidth": "1200px",
+              "alignItems": "center",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "paddingLeft": "16px",
+              "paddingRight": "16px",
+              "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+            }
+          },
+          "children": [
+            {
+              "id": "aimupgyc83_18",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "gap": "16px",
+                  "display": "flex",
+                  "flexDirection": "column"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimupgyc83_19",
+                  "type": "heading",
+                  "props": {
+                    "text": "Freshly Baked Every Morning",
+                    "level": "h2"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "28px",
+                      "lineHeight": "1.3"
+                    },
+                    "tablet": {
+                      "fontSize": "40px",
+                      "lineHeight": "1.2"
+                    },
+                    "desktop": {
+                      "color": "#111827",
+                      "fontSize": "48px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.2"
+                    }
+                  }
+                },
+                {
+                  "id": "aimupgyc83_20",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Artisanal sourdough, flaky pastries, and handcrafted coffee served warm in the heart of your neighbourhood. Today's special: Rosemary Sea Salt Focaccia."
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "15px",
+                      "lineHeight": "1.4"
+                    },
+                    "tablet": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#111827",
+                      "fontSize": "18px",
+                      "lineHeight": "1.5"
+                    }
+                  }
+                },
+                {
+                  "id": "aimupgyc83_21",
+                  "type": "button",
+                  "props": {
+                    "href": "#menu",
+                    "text": "View Today's Menu"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#ffffff",
+                      "width": "fit-content",
+                      "border": "none",
+                      "padding": "12px 24px",
+                      "fontWeight": "600",
+                      "borderRadius": "4px",
+                      "backgroundColor": "#2563EB"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "aimupgyc83_53",
+              "type": "image",
+              "props": {
+                "alt": "GoZen Open Source Team Member",
+                "src": "https://storage.googleapis.com/media-images-gozen/media%2Fgozen-assets%2FFeature-image-15.png"
+              },
+              "styles": {
+                "mobile": {
+                  "height": "300px"
+                },
+                "desktop": {
+                  "width": "100%",
+                  "height": "450px",
+                  "animation": "float 6s ease-in-out infinite",
+                  "objectFit": "contain",
+                  "borderRadius": "12px"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimupgyc83_22",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "paddingTop": "24px",
+          "paddingBottom": "24px"
+        },
+        "tablet": {
+          "paddingTop": "40px",
+          "paddingBottom": "40px"
+        },
+        "desktop": {
+          "position": "relative",
+          "paddingTop": "80px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#F9FAFB"
+        }
+      },
+      "children": [
+        {
+          "id": "aimupgyc83_23",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "mobile": {
+              "paddingLeft": "16px",
+              "paddingRight": "16px"
+            },
+            "tablet": {
+              "paddingLeft": "30px",
+              "paddingRight": "30px"
+            },
+            "desktop": {
+              "maxWidth": "1200px",
+              "position": "relative",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "paddingLeft": "80px",
+              "paddingRight": "80px"
+            }
+          },
+          "children": [
+            {
+              "id": "aimupgyc83_24",
+              "type": "heading",
+              "props": {
+                "text": "Today's Featured Breads",
+                "level": "h2"
+              },
+              "styles": {
+                "mobile": {
+                  "fontSize": "24px",
+                  "marginBottom": "24px"
+                },
+                "tablet": {
+                  "fontSize": "30px",
+                  "marginBottom": "32px"
+                },
+                "desktop": {
+                  "color": "#111827",
+                  "fontSize": "36px",
+                  "textAlign": "center",
+                  "fontWeight": "700",
+                  "marginBottom": "48px"
+                }
+              }
+            },
+            {
+              "id": "aimupgyc83_25",
+              "type": "grid",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gap": "16px",
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "tablet": {
+                  "gap": "20px",
+                  "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+                },
+                "desktop": {
+                  "gap": "32px",
+                  "display": "grid",
+                  "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimupgyc83_26",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "border": "1px solid #60A5FA",
+                      "display": "flex",
+                      "padding": "24px",
+                      "boxShadow": "0 10px 25px -5px rgba(44, 24, 16, 0.05)",
+                      "borderRadius": "12px",
+                      "flexDirection": "column",
+                      "justifyContent": "space-between",
+                      "backgroundColor": "#F9FAFB"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimupgyc83_27",
+                      "type": "image",
+                      "props": {
+                        "alt": "Country Sourdough",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "100%",
+                          "height": "220px",
+                          "objectFit": "cover",
+                          "borderRadius": "8px",
+                          "marginBottom": "20px",
+                          "backgroundColor": "#F9FAFB"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupgyc83_28",
+                      "type": "heading",
+                      "props": {
+                        "text": "Country Sourdough",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#111827",
+                          "fontSize": "22px",
+                          "fontWeight": "600",
+                          "marginBottom": "8px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupgyc83_29",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Fermented for 36 hours with a crisp, caramelized crust and an open, chewy crumb."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#111827",
+                          "fontSize": "15px",
+                          "lineHeight": "1.5",
+                          "marginBottom": "24px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupgyc83_30",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "$8.50"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#2563EB",
+                          "fontSize": "18px",
+                          "fontWeight": "700"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimupgyc83_31",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "border": "1px solid #60A5FA",
+                      "display": "flex",
+                      "padding": "24px",
+                      "boxShadow": "0 10px 25px -5px rgba(44, 24, 16, 0.05)",
+                      "borderRadius": "12px",
+                      "flexDirection": "column",
+                      "justifyContent": "space-between",
+                      "backgroundColor": "#F9FAFB"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimupgyc83_32",
+                      "type": "image",
+                      "props": {
+                        "alt": "Seeded Rye Loaf",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "100%",
+                          "height": "220px",
+                          "objectFit": "cover",
+                          "borderRadius": "8px",
+                          "marginBottom": "20px",
+                          "backgroundColor": "#F9FAFB"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupgyc83_33",
+                      "type": "heading",
+                      "props": {
+                        "text": "Seeded Rye Loaf",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#111827",
+                          "fontSize": "22px",
+                          "fontWeight": "600",
+                          "marginBottom": "8px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupgyc83_34",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Dense, hearty, packed with sunflower, flax, and pumpkin seeds for a nutty crunch."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#111827",
+                          "fontSize": "15px",
+                          "lineHeight": "1.5",
+                          "marginBottom": "24px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupgyc83_35",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "$9.00"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#2563EB",
+                          "fontSize": "18px",
+                          "fontWeight": "700"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimupgyc83_36",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "border": "1px solid #60A5FA",
+                      "display": "flex",
+                      "padding": "24px",
+                      "boxShadow": "0 10px 25px -5px rgba(44, 24, 16, 0.05)",
+                      "borderRadius": "12px",
+                      "flexDirection": "column",
+                      "justifyContent": "space-between",
+                      "backgroundColor": "#F9FAFB"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimupgyc83_37",
+                      "type": "image",
+                      "props": {
+                        "alt": "Cinnamon Brioche",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "100%",
+                          "height": "220px",
+                          "objectFit": "cover",
+                          "borderRadius": "8px",
+                          "marginBottom": "20px",
+                          "backgroundColor": "#F9FAFB"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupgyc83_38",
+                      "type": "heading",
+                      "props": {
+                        "text": "Cinnamon Brioche",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#111827",
+                          "fontSize": "22px",
+                          "fontWeight": "600",
+                          "marginBottom": "8px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupgyc83_39",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Rich, buttery dough swirled with organic cinnamon and dark brown sugar glaze."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#111827",
+                          "fontSize": "15px",
+                          "lineHeight": "1.5",
+                          "marginBottom": "24px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupgyc83_40",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "$5.00"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#2563EB",
+                          "fontSize": "18px",
+                          "fontWeight": "700"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "aimupgyc83_41",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "padding": "24px",
+                  "marginTop": "30px"
+                },
+                "desktop": {
+                  "top": "0px",
+                  "left": "0",
+                  "width": "100%",
+                  "border": "1px dashed #60A5FA",
+                  "zIndex": "10",
+                  "padding": "40px",
+                  "maxWidth": "100%",
+                  "position": "relative",
+                  "marginTop": "40px",
+                  "textAlign": "center",
+                  "transform": "none",
+                  "borderRadius": "12px",
+                  "backgroundColor": "#F9FAFB"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimupgyc83_42",
+                  "type": "heading",
+                  "props": {
+                    "text": "Want a custom loaf for your special event?",
+                    "level": "h3"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#111827",
+                      "fontSize": "24px",
+                      "fontWeight": "700",
+                      "marginBottom": "12px"
+                    }
+                  }
+                },
+                {
+                  "id": "aimupgyc83_43",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "We bake custom orders daily for birthdays, weddings, and local cafes. Order ahead to guarantee your favorites."
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#111827",
+                      "fontSize": "16px",
+                      "maxWidth": "600px",
+                      "marginLeft": "auto",
+                      "marginRight": "auto",
+                      "marginBottom": "24px"
+                    }
+                  }
+                },
+                {
+                  "id": "aimupgyc83_44",
+                  "type": "button",
+                  "props": {
+                    "href": "#",
+                    "text": "Place Custom Order"
+                  },
+                  "styles": {
+                    "hover": {
+                      "backgroundColor": "#b55b3f"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "display": "inline-block",
+                      "padding": "12px 28px",
+                      "fontSize": "16px",
+                      "fontWeight": "600",
+                      "borderRadius": "6px",
+                      "backgroundColor": "#2563EB"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimupgyc83_45",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "paddingTop": "24px",
+          "paddingBottom": "24px"
+        },
+        "tablet": {
+          "paddingTop": "40px",
+          "paddingBottom": "40px"
+        },
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#F9FAFB"
+        }
+      },
+      "children": [
+        {
+          "id": "aimupgyc83_46",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "mobile": {
+              "gap": "24px",
+              "paddingLeft": "16px",
+              "paddingRight": "16px",
+              "gridTemplateColumns": "minmax(0, 1fr)"
+            },
+            "tablet": {
+              "paddingLeft": "30px",
+              "paddingRight": "30px",
+              "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+            },
+            "desktop": {
+              "gap": "40px",
+              "display": "grid",
+              "maxWidth": "1200px",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "paddingLeft": "80px",
+              "paddingRight": "80px",
+              "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+            }
+          },
+          "children": [
+            {
+              "id": "aimupgyc83_47",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "gap": "16px",
+                  "display": "flex",
+                  "flexDirection": "column"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimupgyc83_48",
+                  "type": "heading",
+                  "props": {
+                    "text": "Opening Hours",
+                    "level": "h2"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "22px"
+                    },
+                    "tablet": {
+                      "fontSize": "24px"
+                    },
+                    "desktop": {
+                      "color": "#111827",
+                      "fontSize": "28px",
+                      "fontWeight": "700"
+                    }
+                  }
+                },
+                {
+                  "id": "aimupgyc83_49",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Monday – Friday: 7:00 AM – 3:00 PM\nSaturday – Sunday: 7:30 AM – 2:00 PM\n\nCome early for the best selection—our batches often sell out by noon!"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#111827",
+                      "fontSize": "16px",
+                      "lineHeight": "1.6"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "aimupgyc83_50",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "gap": "16px",
+                  "display": "flex",
+                  "flexDirection": "column"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimupgyc83_51",
+                  "type": "heading",
+                  "props": {
+                    "text": "Find Us",
+                    "level": "h2"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "22px"
+                    },
+                    "tablet": {
+                      "fontSize": "24px"
+                    },
+                    "desktop": {
+                      "color": "#111827",
+                      "fontSize": "28px",
+                      "fontWeight": "700"
+                    }
+                  }
+                },
+                {
+                  "id": "aimupgyc83_52",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "124 Baker Street, Neighbourhood District\nPhone: (555) 234-5678\nEmail: hello@crumbandflour.com"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#111827",
+                      "fontSize": "16px",
+                      "lineHeight": "1.6"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimupgyc83_13",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "desktop": {
+          "paddingTop": "32px",
+          "paddingBottom": "32px",
+          "backgroundColor": "#111827"
+        }
+      },
+      "children": [
+        {
+          "id": "aimuph08yk_2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "1200px",
+              "textAlign": "center",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "paddingLeft": "80px",
+              "paddingRight": "80px"
+            }
+          },
+          "children": [
+            {
+              "id": "aimuph08yk_3",
+              "type": "paragraph",
+              "props": {
+                "text": "© 2025 Crumb & Flour Bakery. All rights reserved."
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#F9FAFB",
+                  "fontSize": "14px"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "customCss": "/* added by the AI Assistant */\n@keyframes float { 0% { transform: translateY(0px) scale(0.9); } 50% { transform: translateY(-15px) scale(0.9); } 100% { transform: translateY(0px) scale(0.9); } }"
+}
