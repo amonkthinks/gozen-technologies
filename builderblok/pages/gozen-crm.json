@@ -402,6 +402,799 @@
       ]
     },
     {
+      "id": "blk_mupi1a5g4",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingBottom": "48px"
+        },
+        "desktop": {
+          "overflow": "hidden",
+          "paddingTop": "80px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#090d16"
+        }
+      },
+      "children": [
+        {
+          "id": "aimupi6rg9_2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "gap": "32px",
+              "display": "flex",
+              "maxWidth": "100%",
+              "overflow": "hidden",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "flexDirection": "column"
+            }
+          },
+          "children": [
+            {
+              "id": "aimupi6rg9_3",
+              "type": "heading",
+              "props": {
+                "text": "Explore Stunning Website Designs",
+                "level": "h2"
+              },
+              "styles": {
+                "mobile": {
+                  "fontSize": "28px"
+                },
+                "desktop": {
+                  "color": "#ffffff",
+                  "fontSize": "36px",
+                  "textAlign": "center",
+                  "fontWeight": "600"
+                }
+              }
+            },
+            {
+              "id": "aimupi6rg9_4",
+              "type": "paragraph",
+              "props": {
+                "text": "Browse through our diverse collection of modern templates across fashion, cafes, portfolios, and more."
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#94a3b8",
+                  "fontSize": "16px",
+                  "maxWidth": "600px",
+                  "textAlign": "center",
+                  "marginLeft": "auto",
+                  "marginRight": "auto"
+                }
+              }
+            },
+            {
+              "id": "aimupi6rg9_5",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "gap": "24px",
+                  "width": "max-content",
+                  "display": "flex",
+                  "animation": "marqueeLeft 35s linear infinite"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimupi6rg9_6",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "12px",
+                      "width": "280px",
+                      "border": "1px solid #334155",
+                      "display": "flex",
+                      "padding": "20px",
+                      "flexShrink": "0",
+                      "borderRadius": "12px",
+                      "flexDirection": "column",
+                      "backgroundSize": "cover",
+                      "backgroundColor": "#1e293b",
+                      "backgroundImage": "url('https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=600&q=80')",
+                      "backgroundPosition": "center"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimupi6rg9_7",
+                      "type": "image",
+                      "props": {
+                        "alt": "Fashion Boutique Design",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "height": "140px",
+                          "display": "none",
+                          "borderRadius": "8px",
+                          "backgroundSize": "cover",
+                          "backgroundImage": "url('https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=600&q=80')",
+                          "backgroundPosition": "center"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_8",
+                      "type": "heading",
+                      "props": {
+                        "text": "Aura Fashion Studio",
+                        "level": "h4"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#ffffff",
+                          "fontSize": "18px",
+                          "fontWeight": "500"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_9",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Modern e-commerce design for luxury apparel and accessories."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "14px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimupi6rg9_10",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "12px",
+                      "width": "280px",
+                      "border": "1px solid #334155",
+                      "display": "flex",
+                      "padding": "20px",
+                      "flexShrink": "0",
+                      "borderRadius": "12px",
+                      "flexDirection": "column",
+                      "backgroundSize": "cover",
+                      "backgroundColor": "#1e293b",
+                      "backgroundImage": "url('https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=600&q=80')",
+                      "backgroundPosition": "center"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimupi6rg9_11",
+                      "type": "image",
+                      "props": {
+                        "alt": "Artisan Cafe Design",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "height": "140px",
+                          "display": "none",
+                          "borderRadius": "8px",
+                          "backgroundSize": "cover",
+                          "backgroundImage": "url('https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=600&q=80')",
+                          "backgroundPosition": "center"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_12",
+                      "type": "heading",
+                      "props": {
+                        "text": "Bean & Leaf Cafe",
+                        "level": "h4"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#ffffff",
+                          "fontSize": "18px",
+                          "fontWeight": "500"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_13",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Warm, cozy layout tailored for local coffee shops and roasters."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "14px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimupi6rg9_14",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "12px",
+                      "width": "280px",
+                      "border": "1px solid #334155",
+                      "display": "flex",
+                      "padding": "20px",
+                      "flexShrink": "0",
+                      "borderRadius": "12px",
+                      "flexDirection": "column",
+                      "backgroundSize": "cover",
+                      "backgroundColor": "#1e293b",
+                      "backgroundImage": "url('https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&q=80')",
+                      "backgroundPosition": "center"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimupi6rg9_15",
+                      "type": "image",
+                      "props": {
+                        "alt": "Tech Startup Design",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "height": "140px",
+                          "display": "none",
+                          "borderRadius": "8px",
+                          "backgroundSize": "cover",
+                          "backgroundImage": "url('https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&q=80')",
+                          "backgroundPosition": "center"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_16",
+                      "type": "heading",
+                      "props": {
+                        "text": "Nexus SaaS Platform",
+                        "level": "h4"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#ffffff",
+                          "fontSize": "18px",
+                          "fontWeight": "500"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_17",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Sleek dark-mode interface built for modern software companies."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "14px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimupi6rg9_18",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "12px",
+                      "width": "280px",
+                      "border": "1px solid #334155",
+                      "display": "flex",
+                      "padding": "20px",
+                      "flexShrink": "0",
+                      "borderRadius": "12px",
+                      "flexDirection": "column",
+                      "backgroundSize": "cover",
+                      "backgroundColor": "#1e293b",
+                      "backgroundImage": "url('https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=600&q=80')",
+                      "backgroundPosition": "center"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimupi6rg9_19",
+                      "type": "image",
+                      "props": {
+                        "alt": "Creative Portfolio",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "height": "140px",
+                          "display": "none",
+                          "borderRadius": "8px",
+                          "backgroundSize": "cover",
+                          "backgroundImage": "url('https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=600&q=80')",
+                          "backgroundPosition": "center"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_20",
+                      "type": "heading",
+                      "props": {
+                        "text": "Vivid Portfolio",
+                        "level": "h4"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#ffffff",
+                          "fontSize": "18px",
+                          "fontWeight": "500"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_21",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Minimalist grid layout highlighting creative photography and work."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "14px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimupi6rg9_22",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "12px",
+                      "width": "280px",
+                      "border": "1px solid #334155",
+                      "display": "flex",
+                      "padding": "20px",
+                      "flexShrink": "0",
+                      "borderRadius": "12px",
+                      "flexDirection": "column",
+                      "backgroundSize": "cover",
+                      "backgroundColor": "#1e293b",
+                      "backgroundImage": "url('https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=600&q=80')",
+                      "backgroundPosition": "center"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimupi6rg9_23",
+                      "type": "image",
+                      "props": {
+                        "alt": "Fitness & Gym Design",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "height": "140px",
+                          "display": "none",
+                          "borderRadius": "8px",
+                          "backgroundSize": "cover",
+                          "backgroundImage": "url('https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=600&q=80')",
+                          "backgroundPosition": "center"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_24",
+                      "type": "heading",
+                      "props": {
+                        "text": "Apex Fitness",
+                        "level": "h4"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#ffffff",
+                          "fontSize": "18px",
+                          "fontWeight": "500"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_25",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "High energy layout for gyms, personal trainers, and fitness studios."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "14px"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "aimupi6rg9_26",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "gap": "24px",
+                  "width": "max-content",
+                  "display": "flex",
+                  "animation": "marqueeRight 35s linear infinite"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimupi6rg9_27",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "12px",
+                      "width": "280px",
+                      "border": "1px solid #334155",
+                      "display": "flex",
+                      "padding": "20px",
+                      "flexShrink": "0",
+                      "borderRadius": "12px",
+                      "flexDirection": "column",
+                      "backgroundSize": "cover",
+                      "backgroundColor": "#1e293b",
+                      "backgroundImage": "url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=600&q=80')",
+                      "backgroundPosition": "center"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimupi6rg9_28",
+                      "type": "image",
+                      "props": {
+                        "alt": "Real Estate Design",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "height": "140px",
+                          "display": "none",
+                          "borderRadius": "8px",
+                          "backgroundSize": "cover",
+                          "backgroundImage": "url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=600&q=80')",
+                          "backgroundPosition": "center"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_29",
+                      "type": "heading",
+                      "props": {
+                        "text": "Prime Living Realty",
+                        "level": "h4"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#ffffff",
+                          "fontSize": "18px",
+                          "fontWeight": "500"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_30",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Stunning property showcase for agencies and developers."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "14px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimupi6rg9_31",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "12px",
+                      "width": "280px",
+                      "border": "1px solid #334155",
+                      "display": "flex",
+                      "padding": "20px",
+                      "flexShrink": "0",
+                      "borderRadius": "12px",
+                      "flexDirection": "column",
+                      "backgroundSize": "cover",
+                      "backgroundColor": "#1e293b",
+                      "backgroundImage": "url('https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=600&q=80')",
+                      "backgroundPosition": "center"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimupi6rg9_32",
+                      "type": "image",
+                      "props": {
+                        "alt": "Travel Blog Design",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "height": "140px",
+                          "display": "none",
+                          "borderRadius": "8px",
+                          "backgroundSize": "cover",
+                          "backgroundImage": "url('https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=600&q=80')",
+                          "backgroundPosition": "center"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_33",
+                      "type": "heading",
+                      "props": {
+                        "text": "Wanderlust Journal",
+                        "level": "h4"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#ffffff",
+                          "fontSize": "18px",
+                          "fontWeight": "500"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_34",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Immersive storytelling layouts for travel bloggers and explorers."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "14px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimupi6rg9_35",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "12px",
+                      "width": "280px",
+                      "border": "1px solid #334155",
+                      "display": "flex",
+                      "padding": "20px",
+                      "flexShrink": "0",
+                      "borderRadius": "12px",
+                      "flexDirection": "column",
+                      "backgroundSize": "cover",
+                      "backgroundColor": "#1e293b",
+                      "backgroundImage": "url('https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=600&q=80')",
+                      "backgroundPosition": "center"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimupi6rg9_36",
+                      "type": "image",
+                      "props": {
+                        "alt": "Organic Farm Design",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "height": "140px",
+                          "display": "none",
+                          "borderRadius": "8px",
+                          "backgroundSize": "cover",
+                          "backgroundImage": "url('https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=600&q=80')",
+                          "backgroundPosition": "center"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_37",
+                      "type": "heading",
+                      "props": {
+                        "text": "GreenLeaf Organics",
+                        "level": "h4"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#ffffff",
+                          "fontSize": "18px",
+                          "fontWeight": "500"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_38",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Fresh and natural design tailored for sustainable local markets."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "14px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimupi6rg9_39",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "12px",
+                      "width": "280px",
+                      "border": "1px solid #334155",
+                      "display": "flex",
+                      "padding": "20px",
+                      "flexShrink": "0",
+                      "borderRadius": "12px",
+                      "flexDirection": "column",
+                      "backgroundSize": "cover",
+                      "backgroundColor": "#1e293b",
+                      "backgroundImage": "url('https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=600&q=80')",
+                      "backgroundPosition": "center"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimupi6rg9_40",
+                      "type": "image",
+                      "props": {
+                        "alt": "Music Studio Design",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "height": "140px",
+                          "display": "none",
+                          "borderRadius": "8px",
+                          "backgroundSize": "cover",
+                          "backgroundImage": "url('https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=600&q=80')",
+                          "backgroundPosition": "center"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_41",
+                      "type": "heading",
+                      "props": {
+                        "text": "Echo Audio Lab",
+                        "level": "h4"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#ffffff",
+                          "fontSize": "18px",
+                          "fontWeight": "500"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_42",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Bold audio-centric portfolio for podcasters and music producers."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "14px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimupi6rg9_43",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "12px",
+                      "width": "280px",
+                      "border": "1px solid #334155",
+                      "display": "flex",
+                      "padding": "20px",
+                      "flexShrink": "0",
+                      "borderRadius": "12px",
+                      "flexDirection": "column",
+                      "backgroundSize": "cover",
+                      "backgroundColor": "#1e293b",
+                      "backgroundImage": "url('https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=600&q=80')",
+                      "backgroundPosition": "center"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimupi6rg9_44",
+                      "type": "image",
+                      "props": {
+                        "alt": "Architecture Studio",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "height": "140px",
+                          "display": "none",
+                          "borderRadius": "8px",
+                          "backgroundSize": "cover",
+                          "backgroundImage": "url('https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=600&q=80')",
+                          "backgroundPosition": "center"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_45",
+                      "type": "heading",
+                      "props": {
+                        "text": "Blueprint Arch",
+                        "level": "h4"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#ffffff",
+                          "fontSize": "18px",
+                          "fontWeight": "500"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimupi6rg9_46",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Structural minimalism highlighting modern building designs."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "14px"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "blk_muphhq351",
       "type": "section",
       "props": {},
@@ -1742,5 +2535,5 @@
       ]
     }
   ],
-  "customCss": "/* added by the AI Assistant */\n@keyframes float { 0% { transform: translateY(0px) scale(0.9); } 50% { transform: translateY(-15px) scale(0.9); } 100% { transform: translateY(0px) scale(0.9); } }\n\n/* added by the AI Assistant */\n@keyframes marquee { 0% { transform: translateX(0%); } 100% { transform: translateX(-50%); } }\n\n/* added by the AI Assistant */\n@keyframes marquee { 0% { transform: translateX(0%); } 100% { transform: translateX(-50%); } } @keyframes marquee-reverse { 0% { transform: translateX(-50%); } 100% { transform: translateX(0%); } }"
+  "customCss": "/* added by the AI Assistant */\n@keyframes float { 0% { transform: translateY(0px) scale(0.9); } 50% { transform: translateY(-15px) scale(0.9); } 100% { transform: translateY(0px) scale(0.9); } }\n\n/* added by the AI Assistant */\n@keyframes marquee { 0% { transform: translateX(0%); } 100% { transform: translateX(-50%); } }\n\n/* added by the AI Assistant */\n@keyframes marquee { 0% { transform: translateX(0%); } 100% { transform: translateX(-50%); } } @keyframes marquee-reverse { 0% { transform: translateX(-50%); } 100% { transform: translateX(0%); } }\n\n/* added by the AI Assistant */\n@keyframes marqueeLeft { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } } @keyframes marqueeRight { 0% { transform: translateX(-50%); } 100% { transform: translateX(0); } }"
 }
