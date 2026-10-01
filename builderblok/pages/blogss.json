@@ -27,7 +27,8 @@
           "paddingTop": "10px",
           "paddingLeft": "24px",
           "paddingRight": "24px",
-          "paddingBottom": "0px"
+          "paddingBottom": "0px",
+          "backgroundColor": "#0a0f1d"
         }
       },
       "children": [
@@ -294,6 +295,313 @@
                   "backgroundColor": "#3b82f6"
                 }
               }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blk_muobe0vi42",
+      "type": "section",
+      "props": {
+        "htmlId": "gallery"
+      },
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "paddingBottom": "48px"
+        },
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "80px"
+        }
+      },
+      "children": [
+        {
+          "id": "blk_muobe0vi43",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "width": "100%",
+              "maxWidth": "1140px",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            }
+          },
+          "children": [
+            {
+              "id": "aimuobjv76_2",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "maxWidth": "680px",
+                  "textAlign": "center",
+                  "marginLeft": "auto",
+                  "marginRight": "auto",
+                  "marginBottom": "48px"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuobjv76_3",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Portfolio"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#4f46e5",
+                      "display": "inline-block",
+                      "fontSize": "13px",
+                      "marginTop": "0px",
+                      "fontWeight": "600",
+                      "lineHeight": "1.6",
+                      "paddingTop": "6px",
+                      "paddingLeft": "14px",
+                      "borderRadius": "999px",
+                      "marginBottom": "20px",
+                      "paddingRight": "14px",
+                      "paddingBottom": "6px",
+                      "backgroundColor": "#eef2ff"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuobjv76_4",
+                  "type": "heading",
+                  "props": {
+                    "text": "Selected work",
+                    "level": "h2"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "28px"
+                    },
+                    "tablet": {
+                      "fontSize": "34px"
+                    },
+                    "desktop": {
+                      "fontSize": "40px",
+                      "marginTop": "0px",
+                      "fontWeight": "700",
+                      "lineHeight": "1.08",
+                      "marginBottom": "12px",
+                      "letterSpacing": "-0.03em"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "aimuobjv76_5",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "gap": "24px",
+                  "display": "flex",
+                  "overflow": "hidden"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuobjv76_6",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "24px",
+                      "flex": "1",
+                      "display": "flex",
+                      "flexDirection": "column"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuobjv76_7",
+                      "type": "image",
+                      "props": {
+                        "alt": "Project 1",
+                        "src": "https://picsum.photos/seed/bb-masonry-0/800/1000"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "100%",
+                          "display": "block",
+                          "objectFit": "cover",
+                          "borderRadius": "14px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuobjv76_8",
+                      "type": "image",
+                      "props": {
+                        "alt": "Project 2",
+                        "src": "https://picsum.photos/seed/bb-masonry-1/800/700"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "100%",
+                          "display": "block",
+                          "objectFit": "cover",
+                          "borderRadius": "14px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuobjv76_9",
+                      "type": "image",
+                      "props": {
+                        "alt": "Project 3",
+                        "src": "https://picsum.photos/seed/bb-masonry-2/800/900"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "100%",
+                          "display": "block",
+                          "objectFit": "cover",
+                          "borderRadius": "14px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuobjv76_10",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "24px",
+                      "flex": "1",
+                      "display": "flex",
+                      "marginTop": "-100px",
+                      "flexDirection": "column"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuobjv76_11",
+                      "type": "image",
+                      "props": {
+                        "alt": "Project 4",
+                        "src": "https://picsum.photos/seed/bb-masonry-3/800/640"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "100%",
+                          "display": "block",
+                          "objectFit": "cover",
+                          "borderRadius": "14px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuobjv76_12",
+                      "type": "image",
+                      "props": {
+                        "alt": "Project 5",
+                        "src": "https://picsum.photos/seed/bb-masonry-4/800/1100"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "100%",
+                          "display": "block",
+                          "objectFit": "cover",
+                          "borderRadius": "14px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuobjv76_13",
+                      "type": "image",
+                      "props": {
+                        "alt": "Project 6",
+                        "src": "https://picsum.photos/seed/bb-masonry-5/800/760"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "100%",
+                          "display": "block",
+                          "objectFit": "cover",
+                          "borderRadius": "14px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuobjv76_14",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "24px",
+                      "flex": "1",
+                      "display": "flex",
+                      "marginTop": "-50px",
+                      "flexDirection": "column"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuobjv76_15",
+                      "type": "image",
+                      "props": {
+                        "alt": "Project 7",
+                        "src": "https://picsum.photos/seed/bb-masonry-6/800/860"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "100%",
+                          "display": "block",
+                          "objectFit": "cover",
+                          "borderRadius": "14px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuobjv76_16",
+                      "type": "image",
+                      "props": {
+                        "alt": "Project 8",
+                        "src": "https://picsum.photos/seed/bb-masonry-7/800/680"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "100%",
+                          "display": "block",
+                          "objectFit": "cover",
+                          "borderRadius": "14px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuobjv76_17",
+                      "type": "image",
+                      "props": {
+                        "alt": "Project 9",
+                        "src": "https://picsum.photos/seed/bb-masonry-8/800/980"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "100%",
+                          "display": "block",
+                          "objectFit": "cover",
+                          "borderRadius": "14px"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }

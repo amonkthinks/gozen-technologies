@@ -1,0 +1,538 @@
+{
+  "schemaVersion": 1,
+  "name": "test",
+  "slug": "test",
+  "route": "/test1",
+  "description": null,
+  "breakpoints": {
+    "tablet": 991,
+    "mobile": 478
+  },
+  "blocks": [
+    {
+      "id": "blk_mupcll5j2",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "paddingTop": "12px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "paddingBottom": "12px"
+        },
+        "desktop": {
+          "top": "0",
+          "zIndex": "100",
+          "position": "sticky",
+          "paddingTop": "16px",
+          "paddingLeft": "24px",
+          "borderBottom": "1px solid #e2e8f0",
+          "paddingRight": "24px",
+          "paddingBottom": "16px",
+          "backgroundColor": "#ffffff"
+        }
+      },
+      "children": [
+        {
+          "id": "aimupcq44n_2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "display": "flex",
+              "maxWidth": "1280px",
+              "alignItems": "center",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "justifyContent": "space-between"
+            }
+          },
+          "children": [
+            {
+              "id": "aimupcq44n_3",
+              "type": "link",
+              "props": {
+                "href": "#",
+                "text": ""
+              },
+              "styles": {
+                "desktop": {
+                  "gap": "8px",
+                  "color": "#0f172a",
+                  "display": "flex",
+                  "fontSize": "24px",
+                  "alignItems": "center",
+                  "fontWeight": "700",
+                  "textDecoration": "none"
+                }
+              }
+            },
+            {
+              "id": "aimupcq44n_5",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "display": "none"
+                },
+                "tablet": {
+                  "display": "none"
+                },
+                "desktop": {
+                  "gap": "32px",
+                  "display": "flex",
+                  "alignItems": "center"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimupcq44n_6",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "position": "relative"
+                    }
+                  },
+                  "interactions": [
+                    {
+                      "id": "ix1",
+                      "once": false,
+                      "delay": 0,
+                      "easing": "ease-out",
+                      "effect": "from-top",
+                      "target": "aimupcq44n_8",
+                      "trigger": "hover",
+                      "distance": 8,
+                      "duration": 200,
+                      "startHidden": true
+                    }
+                  ],
+                  "children": [
+                    {
+                      "id": "aimupcq44n_7",
+                      "type": "button",
+                      "props": {
+                        "text": "Products"
+                      },
+                      "styles": {
+                        "hover": {
+                          "color": "#2563eb"
+                        },
+                        "desktop": {
+                          "color": "#334155",
+                          "border": "none",
+                          "cursor": "pointer",
+                          "display": "flex",
+                          "padding": "0",
+                          "fontSize": "15px",
+                          "alignItems": "center",
+                          "background": "transparent",
+                          "fontWeight": "500"
+                        }
+                      },
+                      "interactions": [
+                        {
+                          "id": "ix1",
+                          "once": false,
+                          "delay": 0,
+                          "easing": "ease-out",
+                          "effect": "from-top",
+                          "target": "aimupcq44n_8",
+                          "trigger": "hover",
+                          "distance": 8,
+                          "duration": 200,
+                          "startHidden": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "aimupcq44n_8",
+                      "type": "div",
+                      "props": {
+                        "bind": "463b0df2-900b-43db-b07c-69da45202481:section:326fcc06-83a8-4052-a592-8002fb038f03"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "gap": "8px",
+                          "top": "100%",
+                          "left": "0",
+                          "width": "200px",
+                          "zIndex": "50",
+                          "display": "flex",
+                          "padding": "12px",
+                          "position": "absolute",
+                          "boxShadow": "0 10px 15px -3px rgba(0, 0, 0, 0.1)",
+                          "borderRadius": "8px",
+                          "flexDirection": "column",
+                          "backgroundColor": "#ffffff"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "aimupcq44n_9",
+                          "type": "link",
+                          "props": {
+                            "bind": "463b0df2-900b-43db-b07c-69da45202481:item:d7616edb-90f9-4023-a918-f5e3b27d0b3b",
+                            "href": "/deepagent",
+                            "text": "Deepagent"
+                          },
+                          "styles": {
+                            "hover": {
+                              "color": "#2563eb",
+                              "backgroundColor": "#f1f5f9"
+                            },
+                            "desktop": {
+                              "color": "#334155",
+                              "padding": "8px",
+                              "fontSize": "14px",
+                              "borderRadius": "4px",
+                              "textDecoration": "none"
+                            }
+                          }
+                        },
+                        {
+                          "id": "aimupcq44n_10",
+                          "type": "link",
+                          "props": {
+                            "bind": "463b0df2-900b-43db-b07c-69da45202481:item:4b9ecf93-8ed6-45ef-b090-6a046aee5e0f",
+                            "href": "/forms",
+                            "text": "Forms"
+                          },
+                          "styles": {
+                            "hover": {
+                              "color": "#2563eb",
+                              "backgroundColor": "#f1f5f9"
+                            },
+                            "desktop": {
+                              "color": "#334155",
+                              "padding": "8px",
+                              "fontSize": "14px",
+                              "borderRadius": "4px",
+                              "textDecoration": "none"
+                            }
+                          }
+                        },
+                        {
+                          "id": "aimupcq44n_11",
+                          "type": "link",
+                          "props": {
+                            "bind": "463b0df2-900b-43db-b07c-69da45202481:item:5864a3e3-ce55-40dc-af31-cda1708e2edc",
+                            "href": "/growth",
+                            "text": "Growth"
+                          },
+                          "styles": {
+                            "hover": {
+                              "color": "#2563eb",
+                              "backgroundColor": "#f1f5f9"
+                            },
+                            "desktop": {
+                              "color": "#334155",
+                              "padding": "8px",
+                              "fontSize": "14px",
+                              "borderRadius": "4px",
+                              "textDecoration": "none"
+                            }
+                          }
+                        },
+                        {
+                          "id": "aimupcq44n_12",
+                          "type": "link",
+                          "props": {
+                            "bind": "463b0df2-900b-43db-b07c-69da45202481:item:aadd3843-89b1-4297-ac0f-4e7a5fa00371",
+                            "href": "/engage",
+                            "text": "Engage"
+                          },
+                          "styles": {
+                            "hover": {
+                              "color": "#2563eb",
+                              "backgroundColor": "#f1f5f9"
+                            },
+                            "desktop": {
+                              "color": "#334155",
+                              "padding": "8px",
+                              "fontSize": "14px",
+                              "borderRadius": "4px",
+                              "textDecoration": "none"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "aimupcq44n_13",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "position": "relative"
+                    }
+                  },
+                  "interactions": [
+                    {
+                      "id": "ix1",
+                      "once": false,
+                      "delay": 0,
+                      "easing": "ease-out",
+                      "effect": "from-top",
+                      "target": "aimupcq44n_15",
+                      "trigger": "hover",
+                      "distance": 8,
+                      "duration": 200,
+                      "startHidden": true
+                    }
+                  ],
+                  "children": [
+                    {
+                      "id": "aimupcq44n_14",
+                      "type": "button",
+                      "props": {
+                        "text": "Usecases"
+                      },
+                      "styles": {
+                        "hover": {
+                          "color": "#2563eb"
+                        },
+                        "desktop": {
+                          "color": "#334155",
+                          "border": "none",
+                          "cursor": "pointer",
+                          "display": "flex",
+                          "padding": "0",
+                          "fontSize": "15px",
+                          "alignItems": "center",
+                          "background": "transparent",
+                          "fontWeight": "500"
+                        }
+                      },
+                      "interactions": [
+                        {
+                          "id": "ix1",
+                          "once": false,
+                          "delay": 0,
+                          "easing": "ease-out",
+                          "effect": "from-top",
+                          "target": "aimupcq44n_15",
+                          "trigger": "hover",
+                          "distance": 8,
+                          "duration": 200,
+                          "startHidden": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "aimupcq44n_15",
+                      "type": "div",
+                      "props": {
+                        "bind": "463b0df2-900b-43db-b07c-69da45202481:section:84befccd-992d-4134-9b59-b5a1a3497838"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "gap": "8px",
+                          "top": "100%",
+                          "left": "0",
+                          "width": "200px",
+                          "zIndex": "50",
+                          "display": "flex",
+                          "padding": "12px",
+                          "position": "absolute",
+                          "boxShadow": "0 10px 15px -3px rgba(0, 0, 0, 0.1)",
+                          "borderRadius": "8px",
+                          "flexDirection": "column",
+                          "backgroundColor": "#ffffff"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "aimupcq44n_16",
+                          "type": "link",
+                          "props": {
+                            "bind": "463b0df2-900b-43db-b07c-69da45202481:item:f6b6798c-40e7-45ea-8cc3-2e76fe8612c5",
+                            "href": "/growth",
+                            "text": "Growth"
+                          },
+                          "styles": {
+                            "hover": {
+                              "color": "#2563eb",
+                              "backgroundColor": "#f1f5f9"
+                            },
+                            "desktop": {
+                              "color": "#334155",
+                              "padding": "8px",
+                              "fontSize": "14px",
+                              "borderRadius": "4px",
+                              "textDecoration": "none"
+                            }
+                          }
+                        },
+                        {
+                          "id": "aimupcq44n_17",
+                          "type": "link",
+                          "props": {
+                            "bind": "463b0df2-900b-43db-b07c-69da45202481:item:12137857-6cdb-4be3-9541-26080661b89b",
+                            "href": "/engage",
+                            "text": "Engage"
+                          },
+                          "styles": {
+                            "hover": {
+                              "color": "#2563eb",
+                              "backgroundColor": "#f1f5f9"
+                            },
+                            "desktop": {
+                              "color": "#334155",
+                              "padding": "8px",
+                              "fontSize": "14px",
+                              "borderRadius": "4px",
+                              "textDecoration": "none"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "aimupcq44n_18",
+                  "type": "link",
+                  "props": {
+                    "bind": "463b0df2-900b-43db-b07c-69da45202481:item:b5a99056-1811-46ef-992b-236a81fde353",
+                    "href": "/blogs",
+                    "text": "/blogs"
+                  },
+                  "styles": {
+                    "hover": {
+                      "color": "#2563eb"
+                    },
+                    "desktop": {
+                      "color": "#334155",
+                      "fontSize": "15px",
+                      "fontWeight": "500",
+                      "textDecoration": "none"
+                    }
+                  }
+                },
+                {
+                  "id": "aimupcq44n_19",
+                  "type": "link",
+                  "props": {
+                    "bind": "463b0df2-900b-43db-b07c-69da45202481:item:fe447ea3-6040-4ba2-b60a-00d1aa0e1893",
+                    "href": "/Partner",
+                    "text": "/Partner"
+                  },
+                  "styles": {
+                    "hover": {
+                      "color": "#2563eb"
+                    },
+                    "desktop": {
+                      "color": "#334155",
+                      "fontSize": "15px",
+                      "fontWeight": "500",
+                      "textDecoration": "none"
+                    }
+                  }
+                },
+                {
+                  "id": "aimupcq44n_20",
+                  "type": "link",
+                  "props": {
+                    "bind": "463b0df2-900b-43db-b07c-69da45202481:item:6b451bc2-f1ef-421d-a63f-ec598ed5b1c9",
+                    "href": "/Pricing",
+                    "text": "/Pricing"
+                  },
+                  "styles": {
+                    "hover": {
+                      "color": "#2563eb"
+                    },
+                    "desktop": {
+                      "color": "#334155",
+                      "fontSize": "15px",
+                      "fontWeight": "500",
+                      "textDecoration": "none"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "aimupcq44n_21",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "gap": "16px",
+                  "display": "flex",
+                  "alignItems": "center"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimupcq44n_22",
+                  "type": "link",
+                  "props": {
+                    "bind": "463b0df2-900b-43db-b07c-69da45202481:item:658a39d1-8537-4ec1-9809-8a74fd7f12ab",
+                    "href": "/login",
+                    "text": "/login"
+                  },
+                  "styles": {
+                    "hover": {
+                      "color": "#2563eb"
+                    },
+                    "desktop": {
+                      "color": "#334155",
+                      "padding": "8px 16px",
+                      "fontSize": "15px",
+                      "fontWeight": "500",
+                      "textDecoration": "none"
+                    }
+                  }
+                },
+                {
+                  "id": "aimupcq44n_23",
+                  "type": "link",
+                  "props": {
+                    "bind": "463b0df2-900b-43db-b07c-69da45202481:item:dbbf3d08-1676-4750-9b56-8480611624e0",
+                    "href": "/signup",
+                    "text": "/signup"
+                  },
+                  "styles": {
+                    "hover": {
+                      "backgroundColor": "#1d4ed8"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "padding": "8px 16px",
+                      "fontSize": "15px",
+                      "fontWeight": "500",
+                      "borderRadius": "6px",
+                      "textDecoration": "none",
+                      "backgroundColor": "#2563eb"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "aimupcq44n_4",
+          "type": "heading",
+          "props": {
+            "bind": "463b0df2-900b-43db-b07c-69da45202481:item:f1049df0-d0c4-4757-9551-e69916300f7a",
+            "level": "h1",
+            "text": "gozen"
+          },
+          "styles": {
+            "desktop": {
+              "color": "#0f172a",
+              "margin": "0",
+              "fontSize": "24px",
+              "fontWeight": "700"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "schemaVersion": 1,
+  "name": "home",
+  "slug": "home",
+  "route": "/",
+  "description": null,
+  "breakpoints": {
+    "tablet": 991,
+    "mobile": 478
+  },
+  "blocks": [
+    {
+      "id": "blk_mumi0mek1227",
+      "type": "section",
+      "props": {
+        "htmlId": "nav"
+      },
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "paddingBottom": "48px"
+        },
+        "desktop": {
+          "paddingTop": "16px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "16px",
+          "borderBottomColor": "#e2e8f0",
+          "borderBottomStyle": "solid",
+          "borderBottomWidth": "1px"
+        }
+      },
+      "children": [
+        {
+          "id": "blk_mumi0mek1228",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "width": "100%",
+              "display": "flex",
+              "maxWidth": "1140px",
+              "alignItems": "center",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "justifyContent": "space-between"
+            }
+          },
+          "children": [
+            {
+              "id": "blk_mumi0mek1229",
+              "type": "heading",
+              "props": {
+                "text": "GoZen",
+                "level": "h4"
+              },
+              "styles": {
+                "desktop": {
+                  "fontSize": "20px",
+                  "marginTop": "0px",
+                  "fontWeight": "700",
+                  "lineHeight": "1.2",
+                  "marginBottom": "0px"
+                }
+              }
+            },
+            {
+              "id": "blk_mumi0mek1230",
+              "type": "button",
+              "props": {
+                "href": "/signup",
+                "text": "Start free trial",
+                "newTab": false
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#ffffff",
+                  "display": "inline-block",
+                  "fontWeight": "500",
+                  "paddingTop": "12px",
+                  "paddingLeft": "24px",
+                  "borderRadius": "6px",
+                  "paddingRight": "24px",
+                  "paddingBottom": "12px",
+                  "textDecoration": "none",
+                  "backgroundColor": "#0f172a"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blk_mumi0mek1231",
+      "type": "section",
+      "props": {
+        "htmlId": "hero"
+      },
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "paddingBottom": "48px"
+        },
+        "desktop": {
+          "paddingTop": "120px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "120px",
+          "backgroundColor": "#f8fafc"
+        }
+      },
+      "children": [
+        {
+          "id": "blk_mumi0mek1232",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "width": "100%",
+              "maxWidth": "760px",
+              "textAlign": "center",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            }
+          },
+          "children": [
+            {
+              "id": "blk_mumi0mek1233",
+              "type": "heading",
+              "props": {
+                "text": "Grow faster with GoZen",
+                "level": "h1"
+              },
+              "styles": {
+                "desktop": {
+                  "fontSize": "56px",
+                  "marginTop": "0px",
+                  "fontWeight": "700",
+                  "lineHeight": "1.2",
+                  "marginBottom": "16px",
+                  "letterSpacing": "-0.02em"
+                }
+              }
+            },
+            {
+              "id": "blk_mumi0mek1234",
+              "type": "paragraph",
+              "props": {
+                "text": "All your marketing tools in one place — forms, email, automation and analytics."
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#475569",
+                  "fontSize": "20px",
+                  "marginTop": "0px",
+                  "lineHeight": "1.6",
+                  "marginBottom": "32px"
+                }
+              }
+            },
+            {
+              "id": "blk_mumi0mek1235",
+              "type": "button",
+              "props": {
+                "href": "/signup",
+                "text": "Get started",
+                "newTab": false
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#ffffff",
+                  "display": "inline-block",
+                  "fontWeight": "500",
+                  "paddingTop": "12px",
+                  "paddingLeft": "24px",
+                  "borderRadius": "6px",
+                  "paddingRight": "24px",
+                  "paddingBottom": "12px",
+                  "textDecoration": "none",
+                  "backgroundColor": "#0f172a"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blk_mumi0mek1236",
+      "type": "section",
+      "props": {
+        "htmlId": "features"
+      },
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "paddingBottom": "48px"
+        },
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "80px"
+        }
+      },
+      "children": [
+        {
+          "id": "blk_mumi0mek1237",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "width": "100%",
+              "maxWidth": "1140px",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            }
+          },
+          "children": [
+            {
+              "id": "blk_mumi0mek1238",
+              "type": "heading",
+              "props": {
+                "text": "Why teams choose us",
+                "level": "h2"
+              },
+              "styles": {
+                "desktop": {
+                  "fontSize": "36px",
+                  "marginTop": "0px",
+                  "textAlign": "center",
+                  "fontWeight": "700",
+                  "lineHeight": "1.2",
+                  "marginBottom": "40px"
+                }
+              }
+            },
+            {
+              "id": "blk_mumi0mek1239",
+              "type": "grid",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "tablet": {
+                  "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+                },
+                "desktop": {
+                  "gap": "24px",
+                  "display": "grid",
+                  "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumi0mek1243",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "paddingTop": "24px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "24px",
+                      "borderRadius": "12px",
+                      "paddingRight": "24px",
+                      "paddingBottom": "24px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumi0mek1244",
+                      "type": "heading",
+                      "props": {
+                        "text": "Automation",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "fontSize": "20px",
+                          "marginTop": "0px",
+                          "fontWeight": "700",
+                          "lineHeight": "1.2",
+                          "marginBottom": "8px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumi0mek1245",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Build flows once, run them forever."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#475569",
+                          "fontSize": "16px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "0px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "blk_mumi0mek1246",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "paddingTop": "24px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "24px",
+                      "borderRadius": "12px",
+                      "paddingRight": "24px",
+                      "paddingBottom": "24px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumi0mek1247",
+                      "type": "heading",
+                      "props": {
+                        "text": "Analytics",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "fontSize": "20px",
+                          "marginTop": "0px",
+                          "fontWeight": "700",
+                          "lineHeight": "1.2",
+                          "marginBottom": "8px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumi0mek1248",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "See what converts, in real time."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#475569",
+                          "fontSize": "16px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "0px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "blk_mumi0mek1249",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "paddingTop": "24px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "24px",
+                      "borderRadius": "12px",
+                      "paddingRight": "24px",
+                      "paddingBottom": "24px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumi0mek1250",
+                      "type": "heading",
+                      "props": {
+                        "text": "Integrations",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "fontSize": "20px",
+                          "marginTop": "0px",
+                          "fontWeight": "700",
+                          "lineHeight": "1.2",
+                          "marginBottom": "8px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumi0mek1251",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "100+ tools, one click away."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#475569",
+                          "fontSize": "16px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "0px"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blk_mumi0mek1252",
+      "type": "section",
+      "props": {
+        "htmlId": "faq"
+      },
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "paddingBottom": "48px"
+        },
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#f8fafc"
+        }
+      },
+      "children": [
+        {
+          "id": "blk_mumi0mek1253",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "width": "100%",
+              "maxWidth": "760px",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            }
+          },
+          "children": [
+            {
+              "id": "blk_mumi0mek1254",
+              "type": "heading",
+              "props": {
+                "text": "Questions",
+                "level": "h2"
+              },
+              "styles": {
+                "desktop": {
+                  "fontSize": "36px",
+                  "marginTop": "0px",
+                  "textAlign": "center",
+                  "fontWeight": "700",
+                  "lineHeight": "1.2",
+                  "marginBottom": "16px"
+                }
+              }
+            },
+            {
+              "id": "blk_mumi0mek1255",
+              "type": "collection",
+              "props": {
+                "limit": 6,
+                "source": "marketing-site/faq"
+              },
+              "items": [],
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blk_mumi0mek1256",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "paddingBottom": "48px"
+        },
+        "desktop": {
+          "paddingTop": "32px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "32px",
+          "backgroundColor": "#0f172a"
+        }
+      },
+      "children": [
+        {
+          "id": "blk_mumi0mek1257",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "width": "100%",
+              "maxWidth": "1140px",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            }
+          },
+          "children": [
+            {
+              "id": "blk_mumi0mek1258",
+              "type": "paragraph",
+              "props": {
+                "text": "© 2026 GoZen"
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#94a3b8",
+                  "fontSize": "16px",
+                  "marginTop": "0px",
+                  "textAlign": "center",
+                  "lineHeight": "1.6",
+                  "marginBottom": "0px"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "name": "test3",
+  "slug": "test3",
+  "route": "/test3",
+  "description": null,
+  "breakpoints": {
+    "tablet": 991,
+    "mobile": 478
+  },
+  "blocks": []
+}
