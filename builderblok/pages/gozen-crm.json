@@ -402,6 +402,728 @@
       ]
     },
     {
+      "id": "blk_muphhq351",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "paddingTop": "40px",
+          "paddingBottom": "40px"
+        },
+        "desktop": {
+          "overflow": "hidden",
+          "background": "radial-gradient(circle, #334155 0%, #0f172a 100%)",
+          "paddingTop": "60px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "paddingBottom": "60px"
+        }
+      },
+      "children": [
+        {
+          "id": "aimuphqc53_2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "gap": "32px",
+              "margin": "0 auto",
+              "display": "flex",
+              "padding": "0 24px",
+              "maxWidth": "1200px",
+              "flexDirection": "column"
+            }
+          },
+          "children": [
+            {
+              "id": "aimuphqc53_3",
+              "type": "heading",
+              "props": {
+                "text": "Trusted by Innovative Teams Worldwide",
+                "level": "h3"
+              },
+              "styles": {
+                "mobile": {
+                  "fontSize": "24px"
+                },
+                "desktop": {
+                  "color": "#64748b",
+                  "fontSize": "40px",
+                  "textAlign": "center",
+                  "fontWeight": "600",
+                  "letterSpacing": "2px",
+                  "textTransform": "uppercase"
+                }
+              }
+            },
+            {
+              "id": "aimuphqc53_4",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gap": "20px",
+                  "animation": "marquee 20s linear infinite"
+                },
+                "desktop": {
+                  "gap": "32px",
+                  "width": "max-content",
+                  "display": "flex",
+                  "animation": "marquee 30s linear infinite",
+                  "alignItems": "center",
+                  "flexDirection": "row"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuphqc53_5",
+                  "type": "heading",
+                  "props": {
+                    "text": "ACME Corp",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_6",
+                  "type": "heading",
+                  "props": {
+                    "text": "Globex",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_7",
+                  "type": "heading",
+                  "props": {
+                    "text": "SoylentCorp",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_8",
+                  "type": "heading",
+                  "props": {
+                    "text": "Initech",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_9",
+                  "type": "heading",
+                  "props": {
+                    "text": "Umbrella",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_10",
+                  "type": "heading",
+                  "props": {
+                    "text": "Massive Dynamic",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_11",
+                  "type": "heading",
+                  "props": {
+                    "text": "Stark Ind",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_12",
+                  "type": "heading",
+                  "props": {
+                    "text": "Wayne Ent",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_13",
+                  "type": "heading",
+                  "props": {
+                    "text": "Cyberdyne",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_14",
+                  "type": "heading",
+                  "props": {
+                    "text": "Oki Data",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "aimuphqc53_15",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gap": "20px",
+                  "animation": "marquee-reverse 22s linear infinite"
+                },
+                "desktop": {
+                  "gap": "32px",
+                  "width": "max-content",
+                  "display": "flex",
+                  "animation": "marquee-reverse 35s linear infinite",
+                  "alignItems": "center",
+                  "flexDirection": "row"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuphqc53_16",
+                  "type": "heading",
+                  "props": {
+                    "text": "Hooli",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_17",
+                  "type": "heading",
+                  "props": {
+                    "text": "Pied Piper",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_18",
+                  "type": "heading",
+                  "props": {
+                    "text": "Raviga",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_19",
+                  "type": "heading",
+                  "props": {
+                    "text": "Aviato",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_20",
+                  "type": "heading",
+                  "props": {
+                    "text": "Nucleus",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_21",
+                  "type": "heading",
+                  "props": {
+                    "text": "Gavin Belson",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_22",
+                  "type": "heading",
+                  "props": {
+                    "text": "Action Jack",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_23",
+                  "type": "heading",
+                  "props": {
+                    "text": "EndFrame",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_24",
+                  "type": "heading",
+                  "props": {
+                    "text": "Boring Co",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_25",
+                  "type": "heading",
+                  "props": {
+                    "text": "Cyberdyne",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "aimuphqc53_26",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gap": "20px",
+                  "animation": "marquee 18s linear infinite"
+                },
+                "desktop": {
+                  "gap": "32px",
+                  "width": "max-content",
+                  "display": "flex",
+                  "animation": "marquee 28s linear infinite",
+                  "alignItems": "center",
+                  "flexDirection": "row"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuphqc53_27",
+                  "type": "heading",
+                  "props": {
+                    "text": "Stark",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_28",
+                  "type": "heading",
+                  "props": {
+                    "text": "Oscorp",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_29",
+                  "type": "heading",
+                  "props": {
+                    "text": "LexCorp",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_30",
+                  "type": "heading",
+                  "props": {
+                    "text": "Vandelay",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_31",
+                  "type": "heading",
+                  "props": {
+                    "text": "Bluth Co",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_32",
+                  "type": "heading",
+                  "props": {
+                    "text": "Snyders",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_33",
+                  "type": "heading",
+                  "props": {
+                    "text": "Abstergo",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_34",
+                  "type": "heading",
+                  "props": {
+                    "text": "Aperture",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_35",
+                  "type": "heading",
+                  "props": {
+                    "text": "Black Mesa",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuphqc53_36",
+                  "type": "heading",
+                  "props": {
+                    "text": "Weyland-Yutani",
+                    "level": "h4"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "opacity": "0.7",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "whiteSpace": "nowrap"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "aimupgyc83_22",
       "type": "section",
       "props": {},
@@ -1020,5 +1742,5 @@
       ]
     }
   ],
-  "customCss": "/* added by the AI Assistant */\n@keyframes float { 0% { transform: translateY(0px) scale(0.9); } 50% { transform: translateY(-15px) scale(0.9); } 100% { transform: translateY(0px) scale(0.9); } }"
+  "customCss": "/* added by the AI Assistant */\n@keyframes float { 0% { transform: translateY(0px) scale(0.9); } 50% { transform: translateY(-15px) scale(0.9); } 100% { transform: translateY(0px) scale(0.9); } }\n\n/* added by the AI Assistant */\n@keyframes marquee { 0% { transform: translateX(0%); } 100% { transform: translateX(-50%); } }\n\n/* added by the AI Assistant */\n@keyframes marquee { 0% { transform: translateX(0%); } 100% { transform: translateX(-50%); } } @keyframes marquee-reverse { 0% { transform: translateX(-50%); } 100% { transform: translateX(0%); } }"
 }
