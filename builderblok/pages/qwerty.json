@@ -1,0 +1,2525 @@
+{
+  "schemaVersion": 2,
+  "name": "qwerty",
+  "slug": "qwerty",
+  "route": "/qwerty",
+  "locale": "en",
+  "dir": "ltr",
+  "alternates": {
+    "en": "/qwerty",
+    "es": "/es/qwerty"
+  },
+  "description": null,
+  "breakpoints": {
+    "tablet": 991,
+    "mobile": 478
+  },
+  "blocks": [
+    {
+      "id": "ai_1",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "paddingLeft": "12px",
+          "paddingRight": "12px"
+        },
+        "desktop": {
+          "top": "0",
+          "left": "0",
+          "right": "0",
+          "zIndex": "100",
+          "position": "fixed",
+          "paddingTop": "16px",
+          "paddingBottom": "16px",
+          "backdropFilter": "blur(8px)",
+          "backgroundColor": "rgba(15, 23, 42, 0.9)"
+        }
+      },
+      "children": [
+        {
+          "id": "aimuwh6gru_2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "display": "flex",
+              "maxWidth": "1200px",
+              "alignItems": "center",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "paddingLeft": "16px",
+              "paddingRight": "16px",
+              "justifyContent": "space-between"
+            }
+          },
+          "children": [
+            {
+              "id": "aimuwh6gru_3",
+              "type": "heading",
+              "props": {
+                "text": "Gozen Tech",
+                "level": "h1"
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#ffffff",
+                  "margin": "0",
+                  "fontSize": "20px",
+                  "fontWeight": "700"
+                }
+              }
+            },
+            {
+              "id": "aimuwh6gru_4",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "gap": "32px",
+                  "display": "flex",
+                  "alignItems": "center"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuwh6gru_5",
+                  "type": "link",
+                  "props": {
+                    "href": "#services",
+                    "text": "Services"
+                  },
+                  "styles": {
+                    "hover": {
+                      "color": "#ffffff"
+                    },
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "14px",
+                      "textDecoration": "none"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuwh6gru_6",
+                  "type": "link",
+                  "props": {
+                    "href": "#projects",
+                    "text": "Projects"
+                  },
+                  "styles": {
+                    "hover": {
+                      "color": "#ffffff"
+                    },
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "14px",
+                      "textDecoration": "none"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuwh6gru_7",
+                  "type": "button",
+                  "props": {
+                    "href": "#contact",
+                    "text": "Contact Us"
+                  },
+                  "styles": {
+                    "hover": {
+                      "backgroundColor": "#d97706"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "border": "none",
+                      "cursor": "pointer",
+                      "padding": "8px 16px",
+                      "fontSize": "14px",
+                      "borderRadius": "6px",
+                      "backgroundColor": "#f59e0b"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai_8",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "desktop": {
+          "paddingTop": "96px",
+          "paddingBottom": "96px",
+          "backgroundColor": "#0f172a"
+        }
+      },
+      "children": [
+        {
+          "id": "ai_9",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "1200px",
+              "textAlign": "center",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "paddingLeft": "16px",
+              "paddingRight": "16px"
+            }
+          },
+          "children": [
+            {
+              "id": "ai_10",
+              "type": "heading",
+              "props": {
+                "text": "Building the Future with Precision",
+                "level": "h2"
+              },
+              "styles": {
+                "mobile": {
+                  "fontSize": "36px"
+                },
+                "desktop": {
+                  "color": "#ffffff",
+                  "fontSize": "48px",
+                  "fontWeight": "700",
+                  "marginBottom": "24px"
+                }
+              }
+            },
+            {
+              "id": "ai_11",
+              "type": "paragraph",
+              "props": {
+                "text": "Gozen Technologies delivers world-class premium construction and engineering solutions for commercial and residential titans."
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#94a3b8",
+                  "fontSize": "18px",
+                  "maxWidth": "700px",
+                  "lineHeight": "1.6",
+                  "marginLeft": "auto",
+                  "marginRight": "auto",
+                  "marginBottom": "32px"
+                }
+              }
+            },
+            {
+              "id": "ai_12",
+              "type": "button",
+              "props": {
+                "href": "#projects",
+                "text": "Explore Our Work"
+              },
+              "styles": {
+                "hover": {
+                  "backgroundColor": "#d97706"
+                },
+                "desktop": {
+                  "color": "#ffffff",
+                  "border": "none",
+                  "cursor": "pointer",
+                  "padding": "12px 24px",
+                  "fontSize": "16px",
+                  "fontWeight": "600",
+                  "borderRadius": "6px",
+                  "backgroundColor": "#f59e0b"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai_13",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "desktop": {
+          "paddingTop": "64px",
+          "paddingBottom": "64px",
+          "backgroundColor": "#1e293b"
+        }
+      },
+      "children": [
+        {
+          "id": "ai_14",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "1200px",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "paddingLeft": "16px",
+              "paddingRight": "16px"
+            }
+          },
+          "children": [
+            {
+              "id": "ai_15",
+              "type": "grid",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "desktop": {
+                  "gap": "32px",
+                  "display": "grid",
+                  "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+                }
+              },
+              "children": [
+                {
+                  "id": "ai_16",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "padding": "32px",
+                      "borderRadius": "8px",
+                      "backgroundColor": "#0f172a"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "ai_17",
+                      "type": "heading",
+                      "props": {
+                        "text": "Commercial Construction",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#ffffff",
+                          "fontSize": "20px",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "ai_18",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "State-of-the-art commercial high-rises and office parks built to exacting modern standards."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "14px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "ai_19",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "padding": "32px",
+                      "borderRadius": "8px",
+                      "backgroundColor": "#0f172a"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "ai_20",
+                      "type": "heading",
+                      "props": {
+                        "text": "Residential Masterpieces",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#ffffff",
+                          "fontSize": "20px",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "ai_21",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Exclusive luxury homes and residential communities designed for uncompromising comfort."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "14px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "ai_22",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "padding": "32px",
+                      "borderRadius": "8px",
+                      "backgroundColor": "#0f172a"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "ai_23",
+                      "type": "heading",
+                      "props": {
+                        "text": "Infrastructure Engineering",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#ffffff",
+                          "fontSize": "20px",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "ai_24",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Robust public and private works engineered to endure for generations to come."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "14px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimuwg2rb5s0_1",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingBottom": "48px"
+        },
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#0f172a"
+        }
+      },
+      "children": [
+        {
+          "id": "aimuwg2rb5s0_2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "1200px",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "paddingLeft": "24px",
+              "paddingRight": "24px"
+            }
+          },
+          "children": [
+            {
+              "id": "aimuwg2rb5s0_3",
+              "type": "grid",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "desktop": {
+                  "gap": "48px",
+                  "display": "grid",
+                  "alignItems": "center",
+                  "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuwg2rb5s0_4",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "24px",
+                      "display": "flex",
+                      "flexDirection": "column"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg2rb5s0_5",
+                      "type": "heading",
+                      "props": {
+                        "text": "Building the Future with Precision & Excellence",
+                        "level": "h1"
+                      },
+                      "styles": {
+                        "mobile": {
+                          "fontSize": "36px"
+                        },
+                        "desktop": {
+                          "color": "#f8fafc",
+                          "fontSize": "48px",
+                          "fontWeight": "700",
+                          "lineHeight": "1.2"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg2rb5s0_6",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Gozen Technologies delivers premium construction services, merging innovative engineering with unmatched craftsmanship for commercial and industrial projects."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg2rb5s0_7",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "gap": "16px",
+                          "display": "flex",
+                          "marginTop": "8px"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "aimuwg2rb5s0_8",
+                          "type": "button",
+                          "props": {
+                            "href": "#features",
+                            "text": "Explore Services"
+                          },
+                          "styles": {
+                            "hover": {
+                              "backgroundColor": "#2563eb"
+                            },
+                            "desktop": {
+                              "color": "#ffffff",
+                              "display": "inline-block",
+                              "fontSize": "16px",
+                              "fontWeight": "600",
+                              "paddingTop": "14px",
+                              "paddingLeft": "28px",
+                              "borderRadius": "12px",
+                              "paddingRight": "28px",
+                              "paddingBottom": "14px",
+                              "textDecoration": "none",
+                              "backgroundColor": "#3b82f6"
+                            }
+                          }
+                        },
+                        {
+                          "id": "aimuwg2rb5s0_9",
+                          "type": "button",
+                          "props": {
+                            "href": "#cta",
+                            "text": "Contact Us"
+                          },
+                          "styles": {
+                            "hover": {
+                              "backgroundColor": "#1e293b"
+                            },
+                            "desktop": {
+                              "color": "#f8fafc",
+                              "border": "1px solid #334155",
+                              "display": "inline-block",
+                              "fontSize": "16px",
+                              "fontWeight": "600",
+                              "paddingTop": "14px",
+                              "paddingLeft": "28px",
+                              "borderRadius": "12px",
+                              "paddingRight": "28px",
+                              "paddingBottom": "14px",
+                              "textDecoration": "none",
+                              "backgroundColor": "transparent"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuwg2rb5s0_10",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "16px",
+                      "display": "flex",
+                      "padding": "32px",
+                      "boxShadow": "0 10px 25px -5px rgba(0, 0, 0, 0.3)",
+                      "borderRadius": "12px",
+                      "flexDirection": "column",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg2rb5s0_11",
+                      "type": "heading",
+                      "props": {
+                        "text": "Project Highlight",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f8fafc",
+                          "fontSize": "20px",
+                          "fontWeight": "600"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg2rb5s0_12",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "State-of-the-art commercial complexes engineered to endure and inspire. Over 25+ years of delivering landmark infrastructure."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg2rb5s0_13",
+                      "type": "image",
+                      "props": {
+                        "alt": "Modern construction project by Gozen Technologies",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "100%",
+                          "height": "200px",
+                          "borderRadius": "8px",
+                          "backgroundColor": "#0f172a"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimuwga0ods0_1",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#0f172a"
+        }
+      },
+      "children": [
+        {
+          "id": "aimuwga0ods0_2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "1200px",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "paddingLeft": "24px",
+              "paddingRight": "24px"
+            }
+          },
+          "children": [
+            {
+              "id": "aimuwga0ods0_3",
+              "type": "heading",
+              "props": {
+                "text": "Corporate Restructuring & Strategic Transformation",
+                "level": "h1"
+              },
+              "styles": {
+                "mobile": {
+                  "fontSize": "36px"
+                },
+                "desktop": {
+                  "color": "#f8fafc",
+                  "fontSize": "48px",
+                  "textAlign": "center",
+                  "fontWeight": "700",
+                  "lineHeight": "1.2",
+                  "marginBottom": "16px"
+                }
+              }
+            },
+            {
+              "id": "aimuwga0ods0_4",
+              "type": "paragraph",
+              "props": {
+                "text": "Gozen Technologies delivers comprehensive corporate restructuring services designed to optimize operational efficiency, stabilize financial positioning, and position your enterprise for sustainable long-term growth."
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#94a3b8",
+                  "fontSize": "16px",
+                  "maxWidth": "700px",
+                  "textAlign": "center",
+                  "lineHeight": "1.5",
+                  "marginLeft": "auto",
+                  "marginRight": "auto",
+                  "marginBottom": "48px"
+                }
+              }
+            },
+            {
+              "id": "aimuwga0ods0_5",
+              "type": "grid",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "desktop": {
+                  "gap": "24px",
+                  "display": "grid",
+                  "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuwga0ods0_6",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "border": "1px solid #334155",
+                      "padding": "32px",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwga0ods0_7",
+                      "type": "heading",
+                      "props": {
+                        "text": "Financial Stabilization",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f8fafc",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwga0ods0_8",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Restructure capital structures, manage liabilities, and improve immediate liquidity to ensure robust financial health."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuwga0ods0_9",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "border": "1px solid #334155",
+                      "padding": "32px",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwga0ods0_10",
+                      "type": "heading",
+                      "props": {
+                        "text": "Operational Alignment",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f8fafc",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwga0ods0_11",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Streamline core business processes, eliminate redundancies, and align workforce capacity with strategic goals."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuwga0ods0_12",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "border": "1px solid #334155",
+                      "padding": "32px",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwga0ods0_13",
+                      "type": "heading",
+                      "props": {
+                        "text": "Strategic Growth",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f8fafc",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwga0ods0_14",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Pivot toward high-margin opportunities and modernize technology stacks to secure a competitive market advantage."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimuwg50dus0_1",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingBottom": "48px"
+        },
+        "desktop": {
+          "display": "none",
+          "paddingTop": "80px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#0f172a"
+        }
+      }
+    },
+    {
+      "id": "aimuwg55cbs1_1",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "desktop": {
+          "color": "#f8fafc",
+          "paddingTop": "80px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#0f172a"
+        }
+      },
+      "children": [
+        {
+          "id": "aimuwg55cbs1_2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "1200px",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "paddingLeft": "24px",
+              "paddingRight": "24px"
+            }
+          },
+          "children": [
+            {
+              "id": "aimuwg55cbs1_3",
+              "type": "heading",
+              "props": {
+                "text": "Strategic Approach",
+                "level": "h2"
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#f8fafc",
+                  "fontSize": "32px",
+                  "textAlign": "center",
+                  "fontWeight": "700",
+                  "marginBottom": "16px"
+                }
+              }
+            },
+            {
+              "id": "aimuwg55cbs1_4",
+              "type": "paragraph",
+              "props": {
+                "text": "Our phased methodology ensures minimal operational disruption while maximizing structural efficiency and long-term value."
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#94a3b8",
+                  "fontSize": "16px",
+                  "maxWidth": "700px",
+                  "textAlign": "center",
+                  "lineHeight": "1.5",
+                  "marginLeft": "auto",
+                  "marginRight": "auto",
+                  "marginBottom": "48px"
+                }
+              }
+            },
+            {
+              "id": "aimuwg55cbs1_5",
+              "type": "grid",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "tablet": {
+                  "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+                },
+                "desktop": {
+                  "gap": "32px",
+                  "display": "grid",
+                  "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuwg55cbs1_6",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "padding": "32px",
+                      "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg55cbs1_7",
+                      "type": "heading",
+                      "props": {
+                        "text": "01. Diagnostic & Audit",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#3b82f6",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg55cbs1_8",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Comprehensive analysis of current operational bottlenecks, financial structures, and alignment with market dynamics."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuwg55cbs1_9",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "padding": "32px",
+                      "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg55cbs1_10",
+                      "type": "heading",
+                      "props": {
+                        "text": "02. Blueprint Design",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#3b82f6",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg55cbs1_11",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Developing custom restructuring frameworks tailored to enterprise goals, focusing on agility and sustainable growth."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuwg55cbs1_12",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "padding": "32px",
+                      "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg55cbs1_13",
+                      "type": "heading",
+                      "props": {
+                        "text": "03. Execution & Scale",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#3b82f6",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg55cbs1_14",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Seamless deployment of new protocols with hands-on change management and performance monitoring metrics."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimuwg59ehs2_1",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingBottom": "48px"
+        },
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#0f172a"
+        }
+      },
+      "children": [
+        {
+          "id": "aimuwg59ehs2_2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "1200px",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "paddingLeft": "24px",
+              "paddingRight": "24px"
+            }
+          },
+          "children": [
+            {
+              "id": "aimuwg59ehs2_3",
+              "type": "heading",
+              "props": {
+                "text": "Case Studies",
+                "level": "h2"
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#f8fafc",
+                  "fontSize": "32px",
+                  "textAlign": "center",
+                  "fontWeight": "700",
+                  "marginBottom": "16px"
+                }
+              }
+            },
+            {
+              "id": "aimuwg59ehs2_4",
+              "type": "paragraph",
+              "props": {
+                "text": "Explore how Gozen Technologies has guided heavy industry leaders through complex operational and financial restructuring."
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#94a3b8",
+                  "fontSize": "16px",
+                  "maxWidth": "700px",
+                  "textAlign": "center",
+                  "lineHeight": "1.5",
+                  "marginLeft": "auto",
+                  "marginRight": "auto",
+                  "marginBottom": "48px"
+                }
+              }
+            },
+            {
+              "id": "aimuwg59ehs2_5",
+              "type": "grid",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "desktop": {
+                  "gap": "32px",
+                  "display": "grid",
+                  "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuwg59ehs2_6",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "padding": "32px",
+                      "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg59ehs2_7",
+                      "type": "heading",
+                      "props": {
+                        "text": "Global Steel Corp",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f8fafc",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg59ehs2_8",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Complete operational overhaul and debt restructuring across five international manufacturing plants, restoring profitability within 18 months."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuwg59ehs2_9",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "padding": "32px",
+                      "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg59ehs2_10",
+                      "type": "heading",
+                      "props": {
+                        "text": "Titan Logistics Network",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f8fafc",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg59ehs2_11",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Streamlined supply chain infrastructure and integrated digital management systems to salvage margins during market downturn."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuwg59ehs2_12",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "padding": "32px",
+                      "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg59ehs2_13",
+                      "type": "heading",
+                      "props": {
+                        "text": "Apex Energy Resources",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f8fafc",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg59ehs2_14",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Executed strategic asset divestment and corporate restructuring plan, reducing liability exposure by $450M while maintaining output."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimuwg5iaqs3_1",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#0f172a"
+        }
+      },
+      "children": [
+        {
+          "id": "aimuwg5iaqs3_2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "1200px",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "paddingLeft": "24px",
+              "paddingRight": "24px"
+            }
+          },
+          "children": [
+            {
+              "id": "aimuwg5iaqs3_3",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "textAlign": "center",
+                  "marginBottom": "48px"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuwg5iaqs3_4",
+                  "type": "heading",
+                  "props": {
+                    "text": "Advisory Team",
+                    "level": "h2"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#f8fafc",
+                      "fontSize": "32px",
+                      "fontWeight": "700",
+                      "marginBottom": "16px"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuwg5iaqs3_5",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Senior leadership and restructuring experts guiding your enterprise transformation."
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "16px",
+                      "maxWidth": "600px",
+                      "marginLeft": "auto",
+                      "marginRight": "auto"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "aimuwg5iaqs3_6",
+              "type": "grid",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "tablet": {
+                  "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+                },
+                "desktop": {
+                  "gap": "24px",
+                  "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuwg5iaqs3_7",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "padding": "32px",
+                      "textAlign": "center",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg5iaqs3_8",
+                      "type": "image",
+                      "props": {
+                        "alt": "Elena Vance",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "96px",
+                          "height": "96px",
+                          "marginLeft": "auto",
+                          "marginRight": "auto",
+                          "borderRadius": "48px",
+                          "marginBottom": "16px",
+                          "backgroundColor": "#334155"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg5iaqs3_9",
+                      "type": "heading",
+                      "props": {
+                        "text": "Elena Vance",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f8fafc",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "4px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg5iaqs3_10",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Managing Partner"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#3b82f6",
+                          "fontSize": "14px",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg5iaqs3_11",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Specializing in corporate turnaround and operational restructuring for global enterprises."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "14px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuwg5iaqs3_12",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "padding": "32px",
+                      "textAlign": "center",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg5iaqs3_13",
+                      "type": "image",
+                      "props": {
+                        "alt": "Marcus Thorne",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "96px",
+                          "height": "96px",
+                          "marginLeft": "auto",
+                          "marginRight": "auto",
+                          "borderRadius": "48px",
+                          "marginBottom": "16px",
+                          "backgroundColor": "#334155"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg5iaqs3_14",
+                      "type": "heading",
+                      "props": {
+                        "text": "Marcus Thorne",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f8fafc",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "4px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg5iaqs3_15",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Head of Financial Strategy"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#3b82f6",
+                          "fontSize": "14px",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg5iaqs3_16",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Expert in debt restructuring, capital allocation, and fiscal stabilization."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "14px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuwg5iaqs3_17",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "padding": "32px",
+                      "textAlign": "center",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg5iaqs3_18",
+                      "type": "image",
+                      "props": {
+                        "alt": "Sarah Jenkins",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "96px",
+                          "height": "96px",
+                          "marginLeft": "auto",
+                          "marginRight": "auto",
+                          "borderRadius": "48px",
+                          "marginBottom": "16px",
+                          "backgroundColor": "#334155"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg5iaqs3_19",
+                      "type": "heading",
+                      "props": {
+                        "text": "Sarah Jenkins",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f8fafc",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "4px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg5iaqs3_20",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Operations Director"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#3b82f6",
+                          "fontSize": "14px",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg5iaqs3_21",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Focuses on supply chain resilience, process optimization, and post-merger integration."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "14px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimuwg2xi5s1_1",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingBottom": "48px"
+        },
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#0f172a"
+        }
+      },
+      "children": [
+        {
+          "id": "aimuwg2xi5s1_2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "1200px",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "paddingLeft": "24px",
+              "paddingRight": "24px"
+            }
+          },
+          "children": [
+            {
+              "id": "aimuwg2xi5s1_3",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "marginBottom": "40px"
+                },
+                "desktop": {
+                  "textAlign": "center",
+                  "marginBottom": "64px"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuwg2xi5s1_4",
+                  "type": "heading",
+                  "props": {
+                    "text": "Core Construction Capabilities",
+                    "level": "h2"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#f8fafc",
+                      "fontSize": "32px",
+                      "fontWeight": "700",
+                      "marginBottom": "16px"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuwg2xi5s1_5",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Leveraging modern building techniques and advanced engineering to deliver superior structural excellence."
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "16px",
+                      "maxWidth": "600px",
+                      "lineHeight": "1.5",
+                      "marginLeft": "auto",
+                      "marginRight": "auto"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "aimuwg2xi5s1_6",
+              "type": "grid",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "tablet": {
+                  "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+                },
+                "desktop": {
+                  "gap": "32px",
+                  "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuwg2xi5s1_7",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "border": "1px solid #334155",
+                      "padding": "32px",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg2xi5s1_8",
+                      "type": "heading",
+                      "props": {
+                        "text": "Advanced BIM Modeling",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f8fafc",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg2xi5s1_9",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Precision digital prototyping and 3D modeling to coordinate every phase of construction before breaking ground."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuwg2xi5s1_10",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "border": "1px solid #334155",
+                      "padding": "32px",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg2xi5s1_11",
+                      "type": "heading",
+                      "props": {
+                        "text": "Modular Prefabrication",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f8fafc",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg2xi5s1_12",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Off-site construction of core components ensuring unmatched quality control and faster on-site assembly times."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuwg2xi5s1_13",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "border": "1px solid #334155",
+                      "padding": "32px",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg2xi5s1_14",
+                      "type": "heading",
+                      "props": {
+                        "text": "Sustainable Materials",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f8fafc",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg2xi5s1_15",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Integration of eco-friendly, high-performance building materials designed to reduce carbon footprint and energy costs."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimuwg33r8s2_1",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingBottom": "48px"
+        },
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#0f172a"
+        }
+      },
+      "children": [
+        {
+          "id": "aimuwg33r8s2_2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "1200px",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "paddingLeft": "24px",
+              "paddingRight": "24px"
+            }
+          },
+          "children": [
+            {
+              "id": "aimuwg33r8s2_3",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "marginBottom": "40px"
+                },
+                "desktop": {
+                  "textAlign": "center",
+                  "marginBottom": "64px"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuwg33r8s2_4",
+                  "type": "heading",
+                  "props": {
+                    "text": "Why Choose Gozen Technologies",
+                    "level": "h2"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "28px"
+                    },
+                    "desktop": {
+                      "color": "#f8fafc",
+                      "fontSize": "32px",
+                      "fontWeight": "700",
+                      "marginBottom": "16px"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuwg33r8s2_5",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Built on a foundation of unmatched quality, accelerated timelines, and absolute reliability."
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "16px",
+                      "maxWidth": "600px",
+                      "lineHeight": "1.5",
+                      "marginLeft": "auto",
+                      "marginRight": "auto"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "aimuwg33r8s2_6",
+              "type": "grid",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gap": "24px",
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "tablet": {
+                  "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+                },
+                "desktop": {
+                  "gap": "32px",
+                  "display": "grid",
+                  "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuwg33r8s2_7",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "border": "1px solid #334155",
+                      "padding": "32px",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg33r8s2_8",
+                      "type": "heading",
+                      "props": {
+                        "text": "Uncompromising Quality",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f8fafc",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg33r8s2_9",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "We use premium grade materials and rigorous structural engineering standards to ensure every project stands the test of time."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuwg33r8s2_10",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "border": "1px solid #334155",
+                      "padding": "32px",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg33r8s2_11",
+                      "type": "heading",
+                      "props": {
+                        "text": "Accelerated Speed",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f8fafc",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg33r8s2_12",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Our streamlined project management and expert crews deliver your commercial and industrial builds ahead of schedule."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuwg33r8s2_13",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "border": "1px solid #334155",
+                      "padding": "32px",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg33r8s2_14",
+                      "type": "heading",
+                      "props": {
+                        "text": "Absolute Reliability",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f8fafc",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimuwg33r8s2_15",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Count on transparent communication, predictable budgeting, and dependable on-site execution from start to finish."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "lineHeight": "1.5"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimuwg38j6s3_1",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#0f172a"
+        }
+      },
+      "children": [
+        {
+          "id": "aimuwg38j6s3_2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "1200px",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "paddingLeft": "24px",
+              "paddingRight": "24px"
+            }
+          },
+          "children": [
+            {
+              "id": "aimuwg38j6s3_3",
+              "type": "heading",
+              "props": {
+                "text": "Trusted by Industry Leaders and Certified Partners",
+                "level": "h2"
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#f8fafc",
+                  "fontSize": "32px",
+                  "textAlign": "center",
+                  "fontWeight": "700",
+                  "marginBottom": "48px"
+                }
+              }
+            },
+            {
+              "id": "aimuwg38j6s3_4",
+              "type": "grid",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gridTemplateColumns": "repeat(1, minmax(0, 1fr))"
+                },
+                "tablet": {
+                  "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+                },
+                "desktop": {
+                  "gap": "24px",
+                  "alignItems": "center",
+                  "gridTemplateColumns": "repeat(4, minmax(0, 1fr))"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuwg38j6s3_5",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "padding": "24px",
+                      "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)",
+                      "textAlign": "center",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg38j6s3_6",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Apex Build Corp"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "fontWeight": "600"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuwg38j6s3_7",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "padding": "24px",
+                      "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)",
+                      "textAlign": "center",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg38j6s3_8",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Vanguard Engineering"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "fontWeight": "600"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuwg38j6s3_9",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "padding": "24px",
+                      "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)",
+                      "textAlign": "center",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg38j6s3_10",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "ISO 9001 Certified"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#3b82f6",
+                          "fontSize": "16px",
+                          "fontWeight": "600"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "aimuwg38j6s3_11",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "padding": "24px",
+                      "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)",
+                      "textAlign": "center",
+                      "borderRadius": "12px",
+                      "backgroundColor": "#1e293b"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimuwg38j6s3_12",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "UrbanStructure Group"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "16px",
+                          "fontWeight": "600"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimuwg3c0ns4_1",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#0f172a"
+        }
+      },
+      "children": [
+        {
+          "id": "aimuwg3c0ns4_2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "800px",
+              "boxShadow": "0 10px 25px -5px rgba(0, 0, 0, 0.3)",
+              "textAlign": "center",
+              "marginLeft": "auto",
+              "paddingTop": "64px",
+              "marginRight": "auto",
+              "paddingLeft": "32px",
+              "borderRadius": "12px",
+              "paddingRight": "32px",
+              "paddingBottom": "64px",
+              "backgroundColor": "#1e293b"
+            }
+          },
+          "children": [
+            {
+              "id": "aimuwg3c0ns4_3",
+              "type": "heading",
+              "props": {
+                "text": "Ready to Transform Your Construction Projects?",
+                "level": "h2"
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#f8fafc",
+                  "fontSize": "32px",
+                  "fontWeight": "700",
+                  "marginBottom": "16px"
+                }
+              }
+            },
+            {
+              "id": "aimuwg3c0ns4_4",
+              "type": "paragraph",
+              "props": {
+                "text": "Partner with Gozen Technologies to streamline your operations, enhance safety, and deliver projects on time."
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#94a3b8",
+                  "fontSize": "16px",
+                  "maxWidth": "600px",
+                  "lineHeight": "1.5",
+                  "marginLeft": "auto",
+                  "marginRight": "auto",
+                  "marginBottom": "32px"
+                }
+              }
+            },
+            {
+              "id": "aimuwg3c0ns4_5",
+              "type": "button",
+              "props": {
+                "href": "/contact",
+                "text": "Schedule a Consultation"
+              },
+              "styles": {
+                "hover": {
+                  "backgroundColor": "#2563eb"
+                },
+                "desktop": {
+                  "color": "#f8fafc",
+                  "display": "inline-block",
+                  "fontSize": "16px",
+                  "fontWeight": "600",
+                  "paddingTop": "14px",
+                  "paddingLeft": "28px",
+                  "borderRadius": "12px",
+                  "paddingRight": "28px",
+                  "paddingBottom": "14px",
+                  "textDecoration": "none",
+                  "backgroundColor": "#3b82f6"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimuwg5lezs4_1",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#0f172a"
+        }
+      },
+      "children": [
+        {
+          "id": "aimuwg5lezs4_2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "800px",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "paddingLeft": "24px",
+              "paddingRight": "24px"
+            }
+          },
+          "children": [
+            {
+              "id": "aimuwg5lezs4_3",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "padding": "48px",
+                  "boxShadow": "0 10px 25px -5px rgba(0, 0, 0, 0.3)",
+                  "textAlign": "center",
+                  "borderRadius": "12px",
+                  "backgroundColor": "#1e293b"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimuwg5lezs4_4",
+                  "type": "heading",
+                  "props": {
+                    "text": "Schedule Your Private Restructuring Assessment"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#f8fafc",
+                      "fontSize": "32px",
+                      "fontWeight": "700",
+                      "marginBottom": "16px"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuwg5lezs4_5",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Connect with our senior advisory team to discuss enterprise restructuring, operational realignment, and financial optimization tailored to your organization."
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "16px",
+                      "lineHeight": "1.5",
+                      "marginBottom": "32px"
+                    }
+                  }
+                },
+                {
+                  "id": "aimuwg5lezs4_6",
+                  "type": "button",
+                  "props": {
+                    "href": "/contact",
+                    "text": "Request Consultation"
+                  },
+                  "styles": {
+                    "hover": {
+                      "backgroundColor": "#2563eb"
+                    },
+                    "desktop": {
+                      "color": "#f8fafc",
+                      "cursor": "pointer",
+                      "fontSize": "16px",
+                      "fontWeight": "600",
+                      "paddingTop": "14px",
+                      "borderWidth": "0px",
+                      "paddingLeft": "32px",
+                      "borderRadius": "8px",
+                      "paddingRight": "32px",
+                      "paddingBottom": "14px",
+                      "backgroundColor": "#3b82f6"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

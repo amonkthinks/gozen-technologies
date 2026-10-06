@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "name": "blogss",
   "slug": "blogss",
-  "route": "/bloggs",
-  "locale": "en",
+  "route": "/es/bloggs",
+  "locale": "es",
   "dir": "ltr",
   "alternates": {
     "en": "/bloggs",

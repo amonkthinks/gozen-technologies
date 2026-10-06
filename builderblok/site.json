@@ -1,25 +1,111 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "defaultLocale": "en",
+  "locales": [
+    "en",
+    "es"
+  ],
+  "siteUrl": "https://gozen-technologies.netlify.app",
   "pages": [
     {
       "route": "/",
       "name": "home",
-      "file": "pages/home.json"
+      "locale": "en",
+      "file": "pages/home.json",
+      "alternates": {
+        "en": "/",
+        "es": "/es"
+      }
     },
     {
       "route": "/bloggs",
       "name": "blogss",
-      "file": "pages/blogss.json"
+      "locale": "en",
+      "file": "pages/blogss.json",
+      "alternates": {
+        "en": "/bloggs",
+        "es": "/es/bloggs"
+      }
     },
     {
       "route": "/crm",
       "name": "gozen crm",
-      "file": "pages/gozen-crm.json"
+      "locale": "en",
+      "file": "pages/gozen-crm.json",
+      "alternates": {
+        "en": "/crm",
+        "es": "/es/crm"
+      }
+    },
+    {
+      "route": "/qwerty",
+      "name": "qwerty",
+      "locale": "en",
+      "file": "pages/qwerty.json",
+      "alternates": {
+        "en": "/qwerty",
+        "es": "/es/qwerty"
+      }
     },
     {
       "route": "/test1",
       "name": "test",
-      "file": "pages/test.json"
+      "locale": "en",
+      "file": "pages/test.json",
+      "alternates": {
+        "en": "/test1",
+        "es": "/es/test1"
+      }
+    },
+    {
+      "route": "/es",
+      "name": "home",
+      "locale": "es",
+      "file": "pages/es/home.json",
+      "alternates": {
+        "en": "/",
+        "es": "/es"
+      }
+    },
+    {
+      "route": "/es/bloggs",
+      "name": "blogss",
+      "locale": "es",
+      "file": "pages/es/blogss.json",
+      "alternates": {
+        "en": "/bloggs",
+        "es": "/es/bloggs"
+      }
+    },
+    {
+      "route": "/es/crm",
+      "name": "gozen crm",
+      "locale": "es",
+      "file": "pages/es/gozen-crm.json",
+      "alternates": {
+        "en": "/crm",
+        "es": "/es/crm"
+      }
+    },
+    {
+      "route": "/es/qwerty",
+      "name": "qwerty",
+      "locale": "es",
+      "file": "pages/es/qwerty.json",
+      "alternates": {
+        "en": "/qwerty",
+        "es": "/es/qwerty"
+      }
+    },
+    {
+      "route": "/es/test1",
+      "name": "test",
+      "locale": "es",
+      "file": "pages/es/test.json",
+      "alternates": {
+        "en": "/test1",
+        "es": "/es/test1"
+      }
     }
   ]
 }

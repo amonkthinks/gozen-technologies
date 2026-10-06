@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "name": "home",
   "slug": "home",
-  "route": "/",
-  "locale": "en",
+  "route": "/es",
+  "locale": "es",
   "dir": "ltr",
   "alternates": {
     "en": "/",

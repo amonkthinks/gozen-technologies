@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "name": "gozen crm",
   "slug": "gozen-crm",
-  "route": "/crm",
-  "locale": "en",
+  "route": "/es/crm",
+  "locale": "es",
   "dir": "ltr",
   "alternates": {
     "en": "/crm",

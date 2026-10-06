@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "name": "test",
   "slug": "test",
-  "route": "/test1",
-  "locale": "en",
+  "route": "/es/test1",
+  "locale": "es",
   "dir": "ltr",
   "alternates": {
     "en": "/test1",
@@ -181,7 +181,7 @@
                           "props": {
                             "bind": "463b0df2-900b-43db-b07c-69da45202481:item:d7616edb-90f9-4023-a918-f5e3b27d0b3b",
                             "href": "/deepagent",
-                            "text": "Deepagent"
+                            "text": "Agente profundo"
                           },
                           "styles": {
                             "hover": {
@@ -203,7 +203,7 @@
                           "props": {
                             "bind": "463b0df2-900b-43db-b07c-69da45202481:item:4b9ecf93-8ed6-45ef-b090-6a046aee5e0f",
                             "href": "/forms",
-                            "text": "Forms"
+                            "text": "Formularios"
                           },
                           "styles": {
                             "hover": {
@@ -225,7 +225,7 @@
                           "props": {
                             "bind": "463b0df2-900b-43db-b07c-69da45202481:item:5864a3e3-ce55-40dc-af31-cda1708e2edc",
                             "href": "/growth",
-                            "text": "Growth"
+                            "text": "Crecimiento"
                           },
                           "styles": {
                             "hover": {
@@ -247,7 +247,7 @@
                           "props": {
                             "bind": "463b0df2-900b-43db-b07c-69da45202481:item:aadd3843-89b1-4297-ac0f-4e7a5fa00371",
                             "href": "/engage",
-                            "text": "Engage"
+                            "text": "Comprometer"
                           },
                           "styles": {
                             "hover": {
@@ -357,7 +357,7 @@
                           "props": {
                             "bind": "463b0df2-900b-43db-b07c-69da45202481:item:f6b6798c-40e7-45ea-8cc3-2e76fe8612c5",
                             "href": "/growth",
-                            "text": "Growth"
+                            "text": "Crecimiento"
                           },
                           "styles": {
                             "hover": {
@@ -379,7 +379,7 @@
                           "props": {
                             "bind": "463b0df2-900b-43db-b07c-69da45202481:item:12137857-6cdb-4be3-9541-26080661b89b",
                             "href": "/engage",
-                            "text": "Engage"
+                            "text": "Comprometer"
                           },
                           "styles": {
                             "hover": {
@@ -425,7 +425,7 @@
                   "props": {
                     "bind": "463b0df2-900b-43db-b07c-69da45202481:item:fe447ea3-6040-4ba2-b60a-00d1aa0e1893",
                     "href": "/Partner",
-                    "text": "/Partner"
+                    "text": "/Pareja"
                   },
                   "styles": {
                     "hover": {
@@ -445,7 +445,7 @@
                   "props": {
                     "bind": "463b0df2-900b-43db-b07c-69da45202481:item:6b451bc2-f1ef-421d-a63f-ec598ed5b1c9",
                     "href": "/Pricing",
-                    "text": "/Pricing"
+                    "text": "/Precios"
                   },
                   "styles": {
                     "hover": {
@@ -479,7 +479,7 @@
                   "props": {
                     "bind": "463b0df2-900b-43db-b07c-69da45202481:item:658a39d1-8537-4ec1-9809-8a74fd7f12ab",
                     "href": "/login",
-                    "text": "/login"
+                    "text": "/acceso"
                   },
                   "styles": {
                     "hover": {
@@ -500,7 +500,7 @@
                   "props": {
                     "bind": "463b0df2-900b-43db-b07c-69da45202481:item:dbbf3d08-1676-4750-9b56-8480611624e0",
                     "href": "/signup",
-                    "text": "/signup"
+                    "text": "/inscribirse"
                   },
                   "styles": {
                     "hover": {
